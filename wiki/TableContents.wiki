@@ -12,6 +12,6 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-[itSimpleScreen.png]
+[svn/itSimpleScreen.png]
 
 http://de3.php.net/images/php.gif?200x50
