@@ -14,4 +14,10 @@ Add your content here.  Format your content with:
 
 [svn/itSimpleScreen.png]
 
-http://de3.php.net/images/php.gif?200x50
+http://code.google.com/p/cantera/source/browse/wiki/Goodwin.png
+
+https://cantera.googlecode.com/svn/wiki/Goodwin.png
+
+http://code.google.com/p/my-project-probando/source/wiki/itSimpleScreen.png
+
+https://my-project-probando.google.com/svn/source/wiki/itSimpleScreen.png
