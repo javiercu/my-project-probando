@@ -12,4 +12,6 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-{{http://code.google.com/p/my-project-probando/source/browse/itSimpleScreen.png}}
+http://code.google.com/p/my-project-probando/source/browse/itSimpleScreen.png
+
+http://de3.php.net/images/php.gif?200x50
