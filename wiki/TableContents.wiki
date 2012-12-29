@@ -12,10 +12,6 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
-[svn/itSimpleScreen.png]
 
-http://code.google.com/p/cantera/source/browse/wiki/Goodwin.png
-
-https://cantera.googlecode.com/svn/wiki/Goodwin.png
 
 https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
