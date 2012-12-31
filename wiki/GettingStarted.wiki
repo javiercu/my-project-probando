@@ -1,5 +1,5 @@
 #summary A quick guide to getting started with itSimple project.
-
+#sidebar TableContents
 = Introduction =
 
 Add your content here.
