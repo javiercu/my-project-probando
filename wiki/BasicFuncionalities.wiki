@@ -7,6 +7,6 @@ https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
 
 == Using Toolbar Buttons ==
 
-*itSimple* includes toolbars to help you perform common tasks quickly. When you point and pause over a button using the mouse, *itSimple *displays the name of the button in a Tooltip. Simply click the button to carry out the command.
+*itSimple4.0* includes toolbars to help you perform common tasks quickly. When you point and pause over a button using the mouse, *itSimple4.0* displays the name of the button in a Tooltip. Simply click the button to carry out the command.
 
 https://my-project-probando.googlecode.com/svn/toolbars.png
