@@ -10,3 +10,6 @@ https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
 *itSimple4.0* includes toolbars to help you perform common tasks quickly. When you point and pause over a button using the mouse, displays the name of the button in a Tooltip. Simply click the button to carry out the command.
 
 https://my-project-probando.googlecode.com/svn/toolbars.png
+
+== Creating a new UML project==
+ Click the _New UML project_ button on the Standard toolbar (https://my-project-probando.googlecode.com/svn/newUML.png ), or choose _New project_ (_Ctrl + N_ shortcuts) from the File menu. If you use _New project_ choice you can beside create a _New PDDL project_ ((_Ctrl + P_ shortcuts). 
