@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 
 #sidebar TableContents 
-= Table of contents =
+
 
 
 <wiki:toc max_depth="1" />
