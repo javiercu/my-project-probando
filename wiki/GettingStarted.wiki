@@ -1,9 +1,8 @@
 #summary A quick guide to getting started with itSimple project.
 #sidebar TableContents
 
-*itSIMPLE 4.0* is a java-based software and run on _Windows_, _Linux_ and _Mac_.
-
 =Getting started=
+*itSIMPLE 4.0* is a java-based software and run on _Windows_, _Linux_ and _Mac_.
 
 ==Installing *itSIMPLE*==
 
