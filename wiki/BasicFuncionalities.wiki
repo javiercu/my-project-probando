@@ -16,6 +16,6 @@ https://my-project-probando.googlecode.com/svn/toolbars.png
 
 == Opening a Document == 
 
-Click the _Open project_ button on the Standard toolbar: https://my-project-probando.googlecode.com/svn/openDoc.png , or choose _Open project from the _File_ menu or simply use _Ctrl + O_ shortcuts).
+Click the _Open project_ button on the Standard toolbar: https://my-project-probando.googlecode.com/svn/openDoc.png , or choose _Open project from the _File_ menu or simply use _Ctrl + O_ shortcuts.
 
 You can open recent project clicking the _Open recent project_ choice from _File_ menu. 
