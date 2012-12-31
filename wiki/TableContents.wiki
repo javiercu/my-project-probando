@@ -2,6 +2,8 @@
 
 <wiki:toc max_depth="2" />
 
+[Introduction Introduction]
+
 [GettingStarted Getting Started]
 
 [BasicFuncionalities Basic Funcionalities]
