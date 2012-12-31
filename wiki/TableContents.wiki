@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="2" />
 
 [GettingStarted Getting Started]
 
-[BasicFuncionalities Basic Funcionalities]
+  [BasicFuncionalities Basic Funcionalities]
