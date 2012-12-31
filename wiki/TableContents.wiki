@@ -1,8 +1,2 @@
 #summary One-sentence summary of this page.
 
-
-
-
-== Titulo 1 ==
-== Titulo 2 ==
-== Titulo 3 ==
