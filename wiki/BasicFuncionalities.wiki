@@ -13,3 +13,9 @@ https://my-project-probando.googlecode.com/svn/toolbars.png
 
 == Creating a new UML project==
  Click the _New UML project_ button https://my-project-probando.googlecode.com/svn/newUML1.png on the Standard toolbar, or choose _New project_ from the _File_ menu or use _Ctrl + N_ shortcuts. If you use _New project_ choice you can beside create a _New PDDL project_ ((_Ctrl + P_ shortcuts). 
+
+== Opening a Document == 
+
+Click the _Open project_ button on the Standard toolbar: https://my-project-probando.googlecode.com/svn/openDoc.png , or choose _Open project from the _File_ menu or simply use _Ctrl + O_ shortcuts).
+
+You can open recent project clicking the _Open recent project_ choice from _File_ menu. 
