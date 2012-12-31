@@ -1,13 +1,9 @@
 #summary A quick guide to getting started with itSimple project.
 #sidebar TableContents
-= Introduction =
 
-Add your content here.
+*itSIMPLE 4.0* is a java-based software and run in _Windows_, _Linux_ and _Mac_.
 
+=Installing *itSIMPLE*=
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Linux ==
+ * Check if you have the lastest version of _Java Runtime installed_ (e.g., *JRE 6*, http://java.sun.com). You can check your version by typing *"java -version" in a terminal;*
