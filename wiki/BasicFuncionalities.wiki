@@ -2,6 +2,7 @@
 #sidebar TableContents
 
 = Basic Funcionalities=
+itSimple is easy to learn and master:
 
 https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
 
