@@ -2,6 +2,6 @@
 
 <wiki:toc max_depth="2" />
 
-[GettingStarted Getting Started]
+=[GettingStarted Getting Started]=
 
-  [BasicFuncionalities Basic Funcionalities]
+==[BasicFuncionalities Basic Funcionalities]==
