@@ -6,7 +6,8 @@
 <wiki:toc max_depth="2" />
 
  * Introduction
-   [Introduction Getting Started]
+   *[Introduction A]
+   *[Introduction B]
    
  * Getting Started
    *[GettingStarted A]
