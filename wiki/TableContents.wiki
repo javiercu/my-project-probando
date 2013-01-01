@@ -11,6 +11,6 @@
    *[GettingStarted A]
    *[GettingStarted B]
 
- * [BasicFuncionalities Basic Funcionalities]
+ * Basic Funcionalities
    * [BasicFuncionalities C]
    * [BasicFuncionalities D]
