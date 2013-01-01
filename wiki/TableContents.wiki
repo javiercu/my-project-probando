@@ -6,8 +6,8 @@
 <wiki:toc max_depth="2" />
 
  * [Introduction Introduction]
-
- * GettingStarted Getting Started
+ 
+ * Getting Started
    * [GettingStarted A]
    * [GettingStarted B]
 
