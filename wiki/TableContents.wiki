@@ -7,7 +7,7 @@
 
  * [Introduction Introduction]
 
- * [GettingStarted Getting Started]
+ * GettingStarted Getting Started
    * [GettingStarted A]
    * [GettingStarted B]
 
