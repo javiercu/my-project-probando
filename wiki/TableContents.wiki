@@ -3,7 +3,7 @@
 <wiki:toc max_depth="2" />
 
 * [Introduction Introduction]
-  [dedede ddd]
+  [Introduction ddd]
 
 * [GettingStarted Getting Started]
 
