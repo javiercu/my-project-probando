@@ -5,12 +5,12 @@
 
 <wiki:toc max_depth="2" />
 
- * Introduction
+ * [Introduction Introduction]
 
- * GettingStarted Getting Started
+ * [GettingStarted Getting Started]
    * [GettingStarted A]
    * [GettingStarted B]
 
- * BasicFuncionalities Basic Funcionalities
+ * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities C]
    * [BasicFuncionalities D]
