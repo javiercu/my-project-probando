@@ -7,3 +7,7 @@
 [GettingStarted Getting Started]
 
 [BasicFuncionalities Basic Funcionalities]
+
+[!--
+This text will not be rendered.
+--]
