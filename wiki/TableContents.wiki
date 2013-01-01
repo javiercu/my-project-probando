@@ -7,7 +7,7 @@
 
  * Introduction
    * [GettingStarted A]
-   *[Introduction B]
+   * [BasicFuncionalities B]
    
  * Getting Started
    *[GettingStarted A]
