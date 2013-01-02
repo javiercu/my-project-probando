@@ -6,7 +6,11 @@
 <wiki:toc max_depth="2" />
 
 
- * [Introduction Introduction]
+ * [Introduction]
+   * [GettingStarted#Installing A]
+   * [GettingStarted#Planners B]
+   * [GettingStarted]
+
 
  * Getting Started
    * [GettingStarted#Installing A]
