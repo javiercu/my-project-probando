@@ -8,7 +8,7 @@
 
   * [Introduction]
   * [GettingStarted Getting Started]
-     * [GettingStarted#Installing Installing itSimple]
+     * [GettingStarted#Installing Installing itSIMPLE]
      * [GettingStarted#Planners Planners compatible with itSIMPLE]
   * [BasicFuncionalities Basic Funcionalities]
      * [BasicFuncionalities]
