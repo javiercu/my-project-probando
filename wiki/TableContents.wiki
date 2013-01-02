@@ -10,7 +10,7 @@
 
 <wiki:toc max_depth="2" />
 
- [GettingStarted Getting Started]
+ * [GettingStarted Getting Started]
    * [GettingStarted#Installing A]
       * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
