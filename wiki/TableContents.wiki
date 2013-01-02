@@ -12,7 +12,8 @@
 </wiki:comment>
 
  * Getting Started
-   * [GettingStarted Installing]
+   * [GettingStarted A]
+   * [GettingStarted B]
    
 
 <wiki:toc max_depth="2" />
