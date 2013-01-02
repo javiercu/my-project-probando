@@ -3,7 +3,7 @@
 
 
 
-= Modelling =
+=_Modelling_ process =
 
 Modeling can be described as graphically representing a  software system. The resulting model can be used to emphasize a certain aspect of the system being represented, and to record, document and communicate its detail. A study of such a model can enable insight or understanding of the planning system.  *itSIMPLE4.0*'s modeling platform is based on the _Unified Modeling Language_ (*UML*), a standard that defines rules and notations for specifying business and software systems. 
 
