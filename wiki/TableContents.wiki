@@ -13,9 +13,10 @@
    * [GettingStarted#Installing A]
    * [GettingStarted#Planners B]
 
+<wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities C]
- 
+</wiki:comment> 
 
 <wiki:comment>
 This text will be removed from the rendered page.
