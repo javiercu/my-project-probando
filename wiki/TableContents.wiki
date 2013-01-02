@@ -13,7 +13,7 @@
       * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
 
- * [BasicFuncionalities Basic Funcionalities]
+   [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities]
 
 
