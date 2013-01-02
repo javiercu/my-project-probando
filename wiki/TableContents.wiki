@@ -11,7 +11,7 @@
      * [GettingStarted#Installing Installing itSIMPLE]
      * [GettingStarted#Planners Planners compatible with itSIMPLE]
   * [BasicFuncionalities Basic Funcionalities]
-     * [BasicFuncionalities#Creating Using Toolbar buttons]
+     * [BasicFuncionalities#Toolbar Using Toolbar buttons]
 
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
