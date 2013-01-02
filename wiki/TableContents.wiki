@@ -12,7 +12,7 @@
      * [GettingStarted#Planners Planners compatible with itSIMPLE]
   * [BasicFuncionalities Basic Funcionalities]
      * [BasicFuncionalities#Toolbar Using Toolbar buttons]
-
+  * [Modelling Modelling process]
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities#Creating Using1 Toolbar buttons]
