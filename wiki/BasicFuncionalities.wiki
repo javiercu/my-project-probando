@@ -27,6 +27,8 @@ You can open recent project clicking the _Open recent project_ choice from _File
 To save a document click the _Save project_ button on the Standard toolbar https://my-project-probando.googlecode.com/svn/save1.png, or choose _Save project_ from the _File_ menu.  When you save the project for the first time, *itSIMPE4.0* displays the _Save As dialog box so that you can choice the saving path.
 *itSIMPE4.0* offer you _Save All_ choice: https://my-project-probando.googlecode.com/svn/save2.png, and you can save a project whith other extensions like _.xml_ clicking _ Save as_ choice from from the _File_ menu.
 
+<wiki:comment>
+
 = Modelling =
 
 Modeling can be described as graphically representing a  software system. The resulting model can be used to emphasize a certain aspect of the system being represented, and to record, document and communicate its detail. A study of such a model can enable insight or understanding of the planning system.  *itSIMPLE4.0*'s modeling platform is based on the _Unified Modeling Language_ (*UML*), a standard that defines rules and notations for specifying business and software systems. 
@@ -60,3 +62,5 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
  * A _Use Case_ is a _UML_ modeling element that describes how a user of the proposed system interacts with the system to perform a discrete unit of work. It describes and signifies a single interaction over time that has meaning for the end user (person, machine or other system), and is required to leave the system in a complete state: the interaction either completed or rolled back to the initial state.
  * _Association_ refers to how individual use cases can be linked together based upon certain functionality.
  * In UML modeling, a _dependency relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client). 
+
+</wiki:comment>
