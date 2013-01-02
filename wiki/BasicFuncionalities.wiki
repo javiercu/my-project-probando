@@ -44,3 +44,7 @@ https://my-project-probando.googlecode.com/svn/modelling.png
 A _Use Case diagram_ captures _Use Cases_ and relationships among _Actors_ and the _system_. It describes the functional requirements of the system, the manner in which outside things (_Actors_) interact at the system boundary, and the response of the system.
 
 https://my-project-probando.googlecode.com/svn/cuexample.png
+
+===Toolbox Elements and Connectors===
+
+https://my-project-probando.googlecode.com/svn/cuexample1.png
