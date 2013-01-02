@@ -7,7 +7,7 @@
 
  * Introduction
    * [GettingStarted#Installing A]
-   * [BasicFuncionalities B]
+   * [GettingStarted#Planners B]
    
  * Getting Started
    * [GettingStarted#Installing Installing]
