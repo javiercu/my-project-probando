@@ -7,9 +7,6 @@
 
 
   [Introduction]
-    *[GettingStarted#Installing A]
-    [GettingStarted#Planners B]
-    [GettingStarted]
 
  * [GettingStarted Getting Started]
    * [GettingStarted#Installing A]
