@@ -47,9 +47,10 @@ https://my-project-probando.googlecode.com/svn/cuexample.png
 
 ===Toolbox Elements and Connectors===
 
-Select _Use Case diagram elements_ and _connectors_ of the Use Case Diagram Tab. You most before select _Use Case Diagram- choice in left panel _Manage projects_ for the this project. 
+Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab_. You most before select _Use Case Diagram- choice in left panel _Manage projects_ for the this project: 
 
 https://my-project-probando.googlecode.com/svn/cuexample2.png
+
 
 || *Year* || *Temperature (low)* || *Temperature (high)* ||
 || 1900 || -10 || 25 ||
