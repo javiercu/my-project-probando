@@ -16,3 +16,7 @@
  * Basic Funcionalities
    * [BasicFuncionalities C]
    * [BasicFuncionalities D]
+
+<wiki:comment>
+This text will be removed from the rendered page.
+</wiki:comment>
