@@ -14,6 +14,9 @@
       * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
 </wiki:comment>
+
+<wiki:toc max_depth="2" />
+
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities]
 
