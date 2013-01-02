@@ -6,6 +6,8 @@ itSimple is easy to learn and master:
 
 https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
 
+=Toolbar=
+
 == Using Toolbar Buttons ==
 
 *itSimple4.0* includes toolbars to help you perform common tasks quickly. When you point and pause over a button using the mouse, displays the name of the button in a Tooltip. Simply click the button to carry out the command.
