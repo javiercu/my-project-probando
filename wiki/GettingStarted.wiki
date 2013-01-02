@@ -6,7 +6,7 @@
 
 ==Installing== 
 <wiki:comment>
-*itSIMPLE*==
+==A==
 </wiki:comment>
 
 === Linux ===
