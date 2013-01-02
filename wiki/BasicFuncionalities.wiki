@@ -49,7 +49,7 @@ https://my-project-probando.googlecode.com/svn/cuexample.png
 
 Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab_. You most before select _Use Case Diagram- choice in left panel _Manage projects_ for the this project: 
 
-https://my-project-probando.googlecode.com/svn/cuexample2.png
+https://my-project-probando.googlecode.com/svn/cuexample1.png
 
 
 || *Year* || *Temperature (low)* || *Temperature (high)* ||
@@ -58,5 +58,3 @@ https://my-project-probando.googlecode.com/svn/cuexample2.png
 || 1920 || -10 || 32 ||
 || 1930 || _N/A_ || _N/A_ ||
 || 1940 || -2 || 40 ||
-
-https://my-project-probando.googlecode.com/svn/cuexample1.png
