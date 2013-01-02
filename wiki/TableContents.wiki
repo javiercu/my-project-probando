@@ -17,7 +17,7 @@
 
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
-   * [BasicFuncionalities C]
+   * [BasicFuncionalities#ToolBar Using Toolbar buttons]
 </wiki:comment> 
 
 <wiki:comment>
