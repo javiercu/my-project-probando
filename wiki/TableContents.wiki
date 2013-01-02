@@ -13,7 +13,6 @@
       * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
 
-
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities#ToolBar Using ToolBar Buttons]
 
