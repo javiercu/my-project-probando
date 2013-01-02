@@ -6,7 +6,7 @@
 <wiki:toc max_depth="2" />
 
  * Introduction
-   * [GettingStarted#A A]
+   * [GettingStarted#Installing A]
    * [BasicFuncionalities B]
    
  * Getting Started
