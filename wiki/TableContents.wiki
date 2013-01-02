@@ -13,8 +13,6 @@
   * [BasicFuncionalities Basic Funcionalities]
      * [BasicFuncionalities#Toolbar Using Toolbar buttons]
 
-
-
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities#ToolBar Using Toolbar buttons]
