@@ -8,7 +8,8 @@
  * Introduction
    * [GettingStarted#Installing A]
    * [GettingStarted#Planners B]
-   
+
+<wiki:toc max_depth="2" />  
  * Getting Started
    * [GettingStarted Installing]
    * [BasicFuncionalities B]
