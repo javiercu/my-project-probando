@@ -7,7 +7,7 @@
 
 
   [Introduction]
-    [GettingStarted#Installing A]
+    *[GettingStarted#Installing A]
     [GettingStarted#Planners B]
     [GettingStarted]
 
