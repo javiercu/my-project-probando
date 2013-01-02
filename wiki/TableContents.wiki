@@ -11,9 +11,8 @@
    * [GettingStarted#Planners B]
 
 
- * Getting Started
-   * [GettingStarted A]
-   * [BasicFuncionalities B]
+ * [GettingStarted  Getting Started]
+   
    
 
 <wiki:toc max_depth="2" />
