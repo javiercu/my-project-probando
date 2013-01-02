@@ -53,7 +53,7 @@ https://my-project-probando.googlecode.com/svn/cuexample1.png
 
 
 || *Use Case Diagram Elements* || *Use Case Diagram Connectors* ||
-|| https://my-project-probando.googlecode.com/svn/agent.png|| -10 ||
+|| https://my-project-probando.googlecode.com/svn/agent.png Actor|| -10 ||
 || 1910 || -15 ||
 || 1920 || -10 ||
 || 1930 || _N/A_||
