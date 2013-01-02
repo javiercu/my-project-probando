@@ -8,6 +8,7 @@
 
  * [Introduction Introduction]
    
+<wiki:toc max_depth="2" />
 
  * Getting Started
    * [GettingStarted#Installing A]
