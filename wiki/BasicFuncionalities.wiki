@@ -54,4 +54,7 @@ https://my-project-probando.googlecode.com/svn/cuexample1.png
 
 || *Use Case Diagram Elements* || *Use Case Diagram Connectors* ||
 || https://my-project-probando.googlecode.com/svn/agent.png|| https://my-project-probando.googlecode.com/svn/association.png||
-||  ||https://my-project-probando.googlecode.com/svn/dependency.png ||
+|| https://my-project-probando.googlecode.com/svn/usecase.png ||https://my-project-probando.googlecode.com/svn/dependency.png ||
+
+An _Actor_ is a user of the system; user can mean a human user, a machine, or even another system or subsystem in the model. Anything that interacts with the system from the outside or system boundary is
+termed an _Actor_. Actors are typically associated with _Use Cases_.
