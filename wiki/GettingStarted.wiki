@@ -39,7 +39,9 @@
  * Run the class ItSIMPLE_v.java.
 
 
-== Planners currently compatible with itSIMPLE ==
+== Planners== 
+
+=== Planners currently compatible with itSIMPLE ===
 The current version of itSIMPLE (version 4.0) is compatible with the following planners:
 
  * Metric-FF (windows and linux). [http://andorfer.cs.uni-dortmund.de/~edelkamp/mips/mips-   xxl.htmlhttp://members.deri.at/~joergh/ff.html]
