@@ -9,10 +9,8 @@
   * [Introduction]
   * [GettingStarted Getting Started]
      * [GettingStarted#Installing A]
-       * [BasicFuncionalities C]
      * [GettingStarted#Planners B]
-       * [BasicFuncionalities D]
-   * [GettingStarted#Planners B]
+  * [GettingStarted#Planners B]
   * [BasicFuncionalities Basic Funcionalities]
      * [BasicFuncionalities]
 
