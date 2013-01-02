@@ -21,7 +21,7 @@ https://my-project-probando.googlecode.com/svn/cuexample.png
 
 ===Toolbox Elements and Connectors===
 
-Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab_(2:). You most before select _Use Case Diagram- choice in left panel _Manage projects_ for the this project (1:): 
+Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab_ (2:). You most before select _Use Case Diagram- choice in left panel _Manage projects_ for the this project (1:): 
 
 https://my-project-probando.googlecode.com/svn/cuexample3.png
 
