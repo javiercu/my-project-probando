@@ -4,7 +4,7 @@
 =Getting started=
 *itSIMPLE 4.0* is a java-based software and run on _Windows_, _Linux_ and _Mac_.
 
-==Installing== 
+==_Installing itSIMPLE_== 
 <wiki:comment>
 ==A==
 </wiki:comment>
