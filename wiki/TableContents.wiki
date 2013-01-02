@@ -13,7 +13,7 @@
         * [GettingStarted#Windows_(XP/Vista/7.0) Windows(XP/Later)]
      * [GettingStarted#Planners Planners compatible with itSIMPLE]
   * [BasicFuncionalities Basic Funcionalities]
-     * [BasicFuncionalities#Toolbar Using Toolbar buttons]
+     * [BasicFuncionalities#Using_Toolbar_Buttons Using Toolbar buttons]
   * [Modelling Modelling process]
      * [Modelling#Use_Case_Diagram Use case diagram]
 
