@@ -3,13 +3,14 @@
  Table of contents 
 
 
-<wiki:toc max_depth="8" />
+<wiki:toc max_depth="2" />
 
+<wiki:comment>
  * Introduction
    * [GettingStarted#Installing A]
    * [GettingStarted#Planners B]
+</wiki:comment>
 
-<wiki:toc max_depth="2" />  
  * Getting Started
    * [GettingStarted Installing]
    * [BasicFuncionalities B]
