@@ -13,7 +13,7 @@
 
  * Getting Started
    * [GettingStarted A]
-   * [GettingStarted B]
+   * [BasicFuncionalities B]
    
 
 <wiki:toc max_depth="2" />
