@@ -14,7 +14,7 @@
       * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
 </wiki:comment>
- [BasicFuncionalities Basic Funcionalities]
+ * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities]
 
 
