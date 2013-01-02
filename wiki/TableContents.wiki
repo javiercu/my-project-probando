@@ -6,7 +6,7 @@
 
 
 
-  [Introduction]
+  * [Introduction]
   * [GettingStarted Getting Started]
      * [GettingStarted#Installing A]
        * [BasicFuncionalities C]
