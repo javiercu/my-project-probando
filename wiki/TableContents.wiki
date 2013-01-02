@@ -13,7 +13,7 @@
   * [BasicFuncionalities Basic Funcionalities]
      * [BasicFuncionalities#Toolbar Using Toolbar buttons]
   * [Modelling Modelling process]
-     * [Modelling#Use Use case diagram]
+     * [Modelling#Use_Case_Diagram Use case diagram]
 
 
 
