@@ -16,6 +16,8 @@
    * [GettingStarted#Installing A]
    * [GettingStarted#Planners B]
 
+ * [BasicFuncionalities Basic Funcionalities]
+
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities C]
