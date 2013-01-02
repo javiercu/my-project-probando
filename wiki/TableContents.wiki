@@ -19,7 +19,7 @@
        * [BasicFuncionalities#Saving_a_Project Saving a Project]
   * [Modelling Modelling process]
      * [Modelling#Use_Case_Diagram Use case diagram]
-       * [Modelling#Toolbox_Elements_and _Connectors Toolbox Elements]
+       * [Modelling#Toolbox_Elements_and_Connectors Toolbox Elements]
 
 
 
