@@ -8,13 +8,15 @@
 
   [Introduction]
 
- * [GettingStarted Getting Started]
+  [GettingStarted Getting Started]
    * [GettingStarted#Installing A]
       * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
 
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities]
+
+
 
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
