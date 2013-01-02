@@ -14,6 +14,9 @@
      * [GettingStarted#Planners Planners compatible with itSIMPLE]
   * [BasicFuncionalities Basic Funcionalities]
      * [BasicFuncionalities#Using_Toolbar_Buttons Using Toolbar buttons]
+       * [BasicFuncionalities#Creating_a_new_UML_project Creating a new UML project]
+       * [BasicFuncionalities#Opening_a_Project Opening a Project]
+       * [BasicFuncionalities#Saving_a_Document Saving a Project]
   * [Modelling Modelling process]
      * [Modelling#Use_Case_Diagram Use case diagram]
 
