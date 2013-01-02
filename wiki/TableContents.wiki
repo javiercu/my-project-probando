@@ -13,7 +13,7 @@
       * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
 
-<wiki:toc max_depth="2" />
+
  * [BasicFuncionalities Basic Funcionalities]
    * [BasicFuncionalities#ToolBar Using ToolBar Buttons]
 
