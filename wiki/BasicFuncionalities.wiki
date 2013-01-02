@@ -37,7 +37,7 @@ The environment was designed to incorporate a toolset (representation languages 
 
 Some of the *UML diagrams* can be directly applied for planning domains such as _use case diagram_, _class diagram_, and _state chart diagram_ for each project (see in left panel Manage project *Newproject1* diagrams).
 
-https://my-project-probando.googlecode.com/svn/modelling.png
+https://my-project-probando.googlecode.com/svn/modeling1.png
 
 == Use Case Diagram ==
 
