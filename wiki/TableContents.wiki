@@ -10,7 +10,7 @@
    * [GettingStarted#Planners B]
    
  * Getting Started
-   * [GettingStarted#Installing Installing]
+   * [GettingStarted Installing]
    * [BasicFuncionalities B]
 
  * Basic Funcionalities
