@@ -10,8 +10,8 @@
    * [BasicFuncionalities B]
    
  * Getting Started
-   *[GettingStarted A]
-   *[GettingStarted B]
+   * [GettingStarted#Installing Installing]
+   * [BasicFuncionalities B]
 
  * Basic Funcionalities
    * [BasicFuncionalities C]
