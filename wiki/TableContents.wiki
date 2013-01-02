@@ -14,11 +14,8 @@
      * [GettingStarted#Installing A]
      * [GettingStarted#Planners B]
    * [GettingStarted#Planners B]
-
-
-
- * [BasicFuncionalities Basic Funcionalities]
-   * [BasicFuncionalities]
+  * [BasicFuncionalities Basic Funcionalities]
+     * [BasicFuncionalities]
 
 
 
