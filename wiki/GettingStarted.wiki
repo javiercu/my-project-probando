@@ -4,7 +4,10 @@
 =Getting started=
 *itSIMPLE 4.0* is a java-based software and run on _Windows_, _Linux_ and _Mac_.
 
-==Installing *itSIMPLE*==
+==Installing== 
+<wiki:comment>
+*itSIMPLE*==
+</wiki:comment>
 
 === Linux ===
  * Check if you have the lastest version of _Java Runtime installed_ (e.g., *JRE 6*, http://java.sun.com). You can check your version by typing _"java -version" in a terminal_;
