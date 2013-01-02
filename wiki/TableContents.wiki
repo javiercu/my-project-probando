@@ -5,11 +5,11 @@
 
 <wiki:toc max_depth="2" />
 
-<wiki:comment>
+
  * Introduction
    * [GettingStarted#Installing A]
    * [GettingStarted#Planners B]
-</wiki:comment>
+
 
  * Getting Started
    * [GettingStarted A]
