@@ -12,7 +12,7 @@
    * [GettingStarted]
 
 
- * Getting Started
+ * [GettingStarted Getting Started]
    * [GettingStarted#Installing A]
    * [GettingStarted#Planners B]
 
