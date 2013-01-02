@@ -52,6 +52,6 @@ Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab
 https://my-project-probando.googlecode.com/svn/cuexample1.png
 
 
-|| = Use Case Diagram Elements = || = Use Case Diagram Connectors = ||
+|| *Use Case Diagram Elements* || *Use Case Diagram Connectors* ||
 || https://my-project-probando.googlecode.com/svn/agent.png|| https://my-project-probando.googlecode.com/svn/association.png||
 ||  ||https://my-project-probando.googlecode.com/svn/dependency.png ||
