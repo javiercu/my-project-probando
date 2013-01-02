@@ -14,7 +14,7 @@
    * [GettingStarted#Planners B]
 
  * [BasicFuncionalities Basic Funcionalities]
-   * [BasicFuncionalities#ToolBar Using ToolBar Buttons]
+   * [BasicFuncionalities]
 
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
