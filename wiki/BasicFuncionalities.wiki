@@ -52,9 +52,9 @@ Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab
 https://my-project-probando.googlecode.com/svn/cuexample1.png
 
 
-|| *Year* || *Temperature (low)* || *Temperature (high)* ||
-|| 1900 || -10 || 25 ||
-|| 1910 || -15 || 30 ||
-|| 1920 || -10 || 32 ||
-|| 1930 || _N/A_ || _N/A_ ||
-|| 1940 || -2 || 40 ||
+|| *Use Case Diagram Elements* || *Use Case Diagram Connectors* ||
+|| 1900 || -10 ||
+|| 1910 || -15 ||
+|| 1920 || -10 ||
+|| 1930 || _N/A_||
+|| 1940 || -2 ||
