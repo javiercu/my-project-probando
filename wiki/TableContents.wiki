@@ -15,7 +15,7 @@
 
 <wiki:comment>
  * [BasicFuncionalities Basic Funcionalities]
-   * [BasicFuncionalities#ToolBar Using Toolbar buttons]
+   * [BasicFuncionalities#Creating Using Toolbar buttons]
 </wiki:comment> 
 
 <wiki:comment>
