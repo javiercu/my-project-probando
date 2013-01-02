@@ -22,7 +22,7 @@ A _Use Case diagram_ captures _Use Cases_ and relationships among _Actors_ and t
 Exemplo:
 https://my-project-probando.googlecode.com/svn/cuexample.png
 
-===Toolbox Elements and Connectors===
+===_Toolbox Elements and Connectors_===
 
 Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab_ (2:). You most before select _Use Case Diagram- choice in left panel _Manage projects_ for the this project (1:): 
 
