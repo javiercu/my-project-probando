@@ -2,7 +2,7 @@
 #sidebar TableContents
 
 = Basic Funcionalities=
-itSimple is easy to learn and master:
+itSIMPE4.0 is easy to learn and master:
 
 https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
 
@@ -10,7 +10,7 @@ https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
 
 == Using Toolbar Buttons ==
 
-*itSimple4.0* includes toolbars to help you perform common tasks quickly. When you point and pause over a button using the mouse, displays the name of the button in a Tooltip. Simply click the button to carry out the command.
+*itSIMPLE4.0* includes toolbars to help you perform common tasks quickly. When you point and pause over a button using the mouse, displays the name of the button in a Tooltip. Simply click the button to carry out the command.
 
 https://my-project-probando.googlecode.com/svn/toolbars.png
 
@@ -24,7 +24,17 @@ To open a documen click the _Open project_ button on the Standard toolbar: https
 You can open recent project clicking the _Open recent project_ choice from _File_ menu. 
 
 == Saving a Document ==
-To save a document click the _Save project_ button on the Standard toolbar https://my-project-probando.googlecode.com/svn/save1.png, or choose _Save project_ from the _File_ menu.  When you save the project for the first time, _itSimple_ displays the _Save As dialog box so that you can choice the saving path.
-_itSimple_ offer you _Save All_ choice: https://my-project-probando.googlecode.com/svn/save2.png, and you can save a project whith other extensions like _.xml_ clicking _ Save as_ choice from from the _File_ menu.
+To save a document click the _Save project_ button on the Standard toolbar https://my-project-probando.googlecode.com/svn/save1.png, or choose _Save project_ from the _File_ menu.  When you save the project for the first time, *itSIMPE4.0* displays the _Save As dialog box so that you can choice the saving path.
+*itSIMPE4.0* offer you _Save All_ choice: https://my-project-probando.googlecode.com/svn/save2.png, and you can save a project whith other extensions like _.xml_ clicking _ Save as_ choice from from the _File_ menu.
 
-CONTINUAR EXPLICANDO CADA UM DOS ELEMENTOS DO ITSIMPLE SCREEN.
+== Modeling process ==
+
+Modeling can be described as graphically representing a  software system. The resulting model can be used to emphasize a certain aspect of the system being represented, and to record, document and communicate its detail. A study of such a model can enable insight or understanding of the planning system.  *itSIMPLE4.0*'s modeling platform is based on the _Unified Modeling Language_ (*UML*), a standard that defines rules and notations for specifying business and software systems. 
+
+*itSIMPLE4.0* proposes a special use of *UML* in a planning approach (named *UML.P*) which we believe can contribute to the knowledge acquisition process (from different viewpoints) as well as to the domain model visualization and verification.
+
+The environment was designed to incorporate a toolset (representation languages and theories) capable of dealing with requirements and knowledge engineering.
+
+Some of the *UML diagrams* can be directly applied for planning domains such as _use case diagram_, _class diagram_, and _state chart diagram_ for each project [see in left panel Manage project NewProject1 diagrams].
+
+https://my-project-probando.googlecode.com/svn/modelling.png
