@@ -77,7 +77,7 @@ https://my-project-probando.googlecode.com/svn/ator1.png
 || https://my-project-probando.googlecode.com/svn/imag_atores/Compass1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Key1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/System2.png ||
 || https://my-project-probando.googlecode.com/svn/imag_atores/Compass1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/LiftTruck1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2.png || https://my-project-probando.googlecode.com/svn/imag_atores/Tanker1.png ||
 
-<wiki:comment>
+</wiki:comment>
 
 ==_Class diagram_==
 
