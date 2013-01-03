@@ -110,16 +110,14 @@ An _Enumeration_ is a data type, whose instances can be any of a number of user-
 An _Association_ implies two model elements have a _relationship_, usually implemented as an instance variable in one _Class_. The connector can include _named roles_ at each end, _multiplicity_, _direction_ and _constraints_. _Association_ is the general main relationship type between elements. 
 To connect more than two elements in an association, you can use the _N-Ary_ Association element. 
 
- * According _OMG UML Specification_: 
-An _association_ specifies a semantic relationship that can occur between typed instances. It has at least two ends represented by properties, each of which is connected to the type of the end. More than one end of the association may have the same type. An end property of an association that is owned by an end class or that is a navigable owned end of the association indicates that the association is navigable from the opposite ends; otherwise, the association is not navigable from the opposite ends.
+ * According _OMG UML Specification_: an _association_ specifies a semantic relationship that can occur between typed instances. It has at least two ends represented by properties, each of which is connected to the type of the end. More than one end of the association may have the same type. An end property of an association that is owned by an end class or that is a navigable owned end of the association indicates that the association is navigable from the opposite ends; otherwise, the association is not navigable from the opposite ends.
 
 ==== Generalization ====
 
 A _Generalization_ is used to indicate inheritance between classes. Drawn from the specific classifier to a general classifier, the
 generalize implication is that the source inherits the target's characteristics.
 
- * According _OMG UML Specification_:
-A _generalization_ is a taxonomic relationship between a more general classifier and a more specific classifier. Each instance of the specific classifier is also an indirect instance of the general classifier. Thus, the specific classifier inherits the features of the more general classifier.
+ * According _OMG UML Specification_: a _generalization_ is a taxonomic relationship between a more general classifier and a more specific classifier. Each instance of the specific classifier is also an indirect instance of the general classifier. Thus, the specific classifier inherits the features of the more general classifier.
 
 
 
