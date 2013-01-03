@@ -25,6 +25,9 @@
        * [Modelling#Toolbox_Elements Toolbox Elements]
      * [Modelling#State_machine_diagram State Machine Diagram]
        * [Modelling#Toolbox_Elements_and_connectors Toolbox Elements and connectors]
+  * [Analysis itSIMPLE Analysis Process]
+  * [Planning itSIMPLE Planning Process]
+  * [PDDL itSIMPLE PDDL Translation]
 
 
 <wiki:comment>
