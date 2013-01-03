@@ -29,40 +29,12 @@ To save a document click the _Save project_ button on the Standard toolbar https
 
 EXPLICAR OS OUTROS PANEIS.
 
-<wiki:comment>
+== Manage Project ==
 
-= Modelling =
+== Properties objects ==
 
-Modeling can be described as graphically representing a  software system. The resulting model can be used to emphasize a certain aspect of the system being represented, and to record, document and communicate its detail. A study of such a model can enable insight or understanding of the planning system.  *itSIMPLE4.0*'s modeling platform is based on the _Unified Modeling Language_ (*UML*), a standard that defines rules and notations for specifying business and software systems. 
+== Diagram View ==
 
-*itSIMPLE4.0* proposes a special use of *UML* in a planning approach (named *UML.P*) which we believe can contribute to the knowledge acquisition process (from different viewpoints) as well as to the domain model visualization and verification.
+== Additional Information Panel ==
 
-The environment was designed to incorporate a toolset (representation languages and theories) capable of dealing with requirements and knowledge engineering.
-
-Some of the *UML diagrams* can be directly applied for planning domains such as _use case diagram_, _class diagram_, and _state chart diagram_ for each project (see in left panel Manage project *Newproject1* diagrams).
-
-https://my-project-probando.googlecode.com/svn/modeling1.png
-
-== Use Case Diagram ==
-
-A _Use Case diagram_ captures _Use Cases_ and relationships among _Actors_ and the _system_. It describes the functional requirements of the system, the manner in which outside things (_Actors_) interact at the system boundary, and the response of the system.
-
-https://my-project-probando.googlecode.com/svn/cuexample.png
-
-===Toolbox Elements and Connectors===
-
-Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab_. You most before select _Use Case Diagram- choice in left panel _Manage projects_ for the this project: 
-
-https://my-project-probando.googlecode.com/svn/cuexample3.png
-
-
-|| *Use Case Diagram Elements* || *Use Case Diagram Connectors* ||
-|| https://my-project-probando.googlecode.com/svn/agent.png|| https://my-project-probando.googlecode.com/svn/association.png||
-|| https://my-project-probando.googlecode.com/svn/usecase.png ||https://my-project-probando.googlecode.com/svn/dependency.png ||
-
- * An _Actor_ is a user of the _system_; user can mean a human user, a machine, or even another system or subsystem in the model. Anything that interacts with the system from the outside or system boundary is termed an _Actor_. Actors are typically associated with _Use Cases_.
- * A _Use Case_ is a _UML_ modeling element that describes how a user of the proposed system interacts with the system to perform a discrete unit of work. It describes and signifies a single interaction over time that has meaning for the end user (person, machine or other system), and is required to leave the system in a complete state: the interaction either completed or rolled back to the initial state.
- * _Association_ refers to how individual use cases can be linked together based upon certain functionality.
- * In UML modeling, a _dependency relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client). 
-
-</wiki:comment>
+== Status Information Bar ==
