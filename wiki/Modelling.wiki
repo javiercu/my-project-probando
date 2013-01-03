@@ -44,10 +44,10 @@ According to the problem context, you can personalize actors, selecting differen
 
 https://my-project-probando.googlecode.com/svn/ator1.png
 
-==Icons== 
+=== Icons === 
 [Icons Differents icons supporting for the itSIMPLE4.0 class diagram:]
 
-
+<wiki:comment>
 
 || https://my-project-probando.googlecode.com/svn/imag_atores/airplane1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Container1.png  ||  https://my-project-probando.googlecode.com/svn/imag_atores/LorryGreen.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/Elephant1.png ||
 || https://my-project-probando.googlecode.com/svn/imag_atores/Ambulance.png || https://my-project-probando.googlecode.com/svn/imag_atores/Desk1.png || https://my-project-probando.googlecode.com/svn/imag_atores/molecule-003.png || https://my-project-probando.googlecode.com/svn/imag_atores/Search1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Target1.png ||
@@ -76,6 +76,8 @@ https://my-project-probando.googlecode.com/svn/ator1.png
 || https://my-project-probando.googlecode.com/svn/imag_atores/Clock.png || https://my-project-probando.googlecode.com/svn/imag_atores/Java1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite1.png || https://my-project-probando.googlecode.com/svn/imag_atores/System1.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Compass1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Key1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/System2.png ||
 || https://my-project-probando.googlecode.com/svn/imag_atores/Compass1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/LiftTruck1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2.png || https://my-project-probando.googlecode.com/svn/imag_atores/Tanker1.png ||
+
+<wiki:comment>
 
 ==_Class diagram_==
 
