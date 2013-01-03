@@ -38,6 +38,9 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
  * _Association_ refers to how individual use cases can be linked together based upon certain functionality.
  * In _UML_ modeling, a _dependency relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client).
 
-==_Class diagram_== 
+https://my-project-probando.googlecode.com/svn/imag_atores/agent1.png
+
+==_Class diagram_==
+
 
 The _Class diagram_ of _itSIMPLE4.0_ captures the logical structure of the system; the _Classes_ and things that make up the model. It is a static model,  escribing what exists and what _attributes_ and _behavior_ it has, rather than how something is done. _Generalizations_  and _Associations_ are all valuable in reflecting inheritance, composition or usage, and connections, respectively.
