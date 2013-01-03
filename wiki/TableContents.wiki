@@ -22,8 +22,9 @@
        * [Modelling#Toolbox_Elements_and_Connectors Toolbox Elements and Connectors]
        * [Modelling#Icons itSIMPLE supporting Icons]
      * [Modelling#Class_diagram Class diagram]
+       * [Modelling#Toolbox_Elements Toolbox Elements]
      * [Modelling#State_machine_diagram State Machine Diagram]
-
+       * [Modelling#Toolbox_Elements_and_connectors Toolbox Elements and connectors]
 
 
 <wiki:comment>
