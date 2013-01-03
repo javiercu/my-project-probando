@@ -47,9 +47,8 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
 || https://my-project-probando.googlecode.com/svn/imag_atores/Bucket1.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Bucket2.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Buldings1.png || 
-
 || https://my-project-probando.googlecode.com/svn/imag_atores/BusinessMan.png || 
-https://my-project-probando.googlecode.com/svn/imag_atores/CabrioletRed.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/CabrioletRed.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Calculator.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Car1.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Car1Large.png || 
