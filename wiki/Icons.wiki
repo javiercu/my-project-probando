@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary A list of icons to better represent models in itSIMPLE tool.
 
 [Modelling#Icons Go back]
 
