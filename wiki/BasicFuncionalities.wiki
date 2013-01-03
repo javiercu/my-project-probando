@@ -29,12 +29,14 @@ To save a document click the _Save project_ button on the Standard toolbar https
 
 EXPLICAR OS OUTROS PANEIS.
 
-== Manage Project ==
+== _Projects Manager_ ==
 
-== Properties objects ==
+== _Objects Properties_ ==
 
-== Diagram View ==
+== _Diagram View_ ==
 
-== Additional Information Panel ==
+== _Additional Information Panel_ ==
 
-== Status Information Bar ==
+== _Status Information Bar_ ==
+
+== _Status Information Bar_ == 
