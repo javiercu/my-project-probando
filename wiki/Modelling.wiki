@@ -45,6 +45,7 @@ According to the problem context, you can personalize actors, selecting differen
 https://my-project-probando.googlecode.com/svn/ator1.png
 
 === Icons === 
+It is always useful to choose some icon to the actor, because this gives a better interpretation to your _Use Case Diagram_.
 [Icons Differents icons supporting for the itSIMPLE4.0 class diagram]
 
 <wiki:comment>
