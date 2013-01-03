@@ -54,7 +54,7 @@ https://my-project-probando.googlecode.com/svn/dclasse1.png
 
 ===_Toolbox Elements_===
 
-SCREEN OF TOOLBOX ELEMENTS OF CLASS DIAGRAM
+https://my-project-probando.googlecode.com/svn/toolbarDC.png
 
 ==== Class ==== 
 
