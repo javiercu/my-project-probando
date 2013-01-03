@@ -60,7 +60,7 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
 || https://my-project-probando.googlecode.com/svn/imag_atores/Charts2Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/InfraRed1.png || https://my-project-probando.googlecode.com/svn/imag_atores/SailingShip1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Station5.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Clock.png || https://my-project-probando.googlecode.com/svn/imag_atores/Java1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite1.png || https://my-project-probando.googlecode.com/svn/imag_atores/System1.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Compass1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Key1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/System2.png ||
-|| https://my-project-probando.googlecode.com/svn/imag_atores/Compass1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/LiftTruck1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2.png || https://my-project-probando.googlecode.com/svn/imag_atores/Tanker1 ||
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Compass1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/LiftTruck1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2.png || https://my-project-probando.googlecode.com/svn/imag_atores/Tanker1.png ||
 
 
 
