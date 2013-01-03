@@ -36,7 +36,6 @@ https://my-project-probando.googlecode.com/svn/toolbarCU.png
  * _Association_ (https://my-project-probando.googlecode.com/svn/association.png) refers to how individual use cases can be linked together based upon certain functionality.
  * In _UML_ modeling, a _dependency (https://my-project-probando.googlecode.com/svn/dependency1.png) relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client).
 
-
 According to the problem context, you can personalize actors, selecting differents icons in the property object panel: 
 
 https://my-project-probando.googlecode.com/svn/ator1.png
@@ -44,9 +43,13 @@ https://my-project-probando.googlecode.com/svn/ator1.png
 === Icons === 
 It is always useful to choose some [Icons icon] to the actor, because this gives a better interpretation to your _Use Case Diagram_.
 
+=== Elements Properties ====
+
+You can 
+
+https://my-project-probando.googlecode.com/svn/objectpCU.png
 
 ==_Class diagram_==
-
 
 The _Class diagram_ of _itSIMPLE4.0_ captures the logical structure of the system; the _Classes_ and things that make up the model. It is a static model,  escribing what exists and what _attributes_ and _behavior_ it has, rather than how something is done. _Generalizations_  and _Associations_ are all valuable in reflecting inheritance, composition or usage, and connections, respectively.
 
