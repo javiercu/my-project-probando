@@ -38,7 +38,6 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
  * _Association_ refers to how individual use cases can be linked together based upon certain functionality.
  * In _UML_ modeling, a _dependency relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client).
 
-https://my-project-probando.googlecode.com/svn/imag_atores/agent1.png
 
 ==_Class diagram_==
 
