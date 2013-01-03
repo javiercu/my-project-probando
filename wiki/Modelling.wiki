@@ -86,4 +86,10 @@ The _Class diagram_ of _itSIMPLE4.0_ captures the logical structure of the syste
 
 https://my-project-probando.googlecode.com/svn/dclasse.png
 
+===Toolbox Elements ===
+
 ==_State machine diagram_==
+
+
+
+===_Toolbox Elements and connectors_===
