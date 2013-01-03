@@ -33,11 +33,20 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
 || https://my-project-probando.googlecode.com/svn/agent.png|| https://my-project-probando.googlecode.com/svn/association.png||
 || https://my-project-probando.googlecode.com/svn/usecase.png ||https://my-project-probando.googlecode.com/svn/dependency.png ||
 
+ * An _Actor_ is a user of the _system_; user can mean a human user, a machine, or even another system or subsystem in the model. Anything that interacts with the system from the outside or system boundary is termed an _Actor_. Actors are typically associated with _Use Cases_.
+ * A _Use Case_ is a _UML_ modeling element that describes how a user of the proposed system interacts with the system to perform a discrete unit of work. It describes and signifies a single interaction over time that has meaning for the end user (person, machine or other system), and is required to leave the system in a complete state: the interaction either completed or rolled back to the initial state.
+ * _Association_ refers to how individual use cases can be linked together based upon certain functionality.
+ * In _UML_ modeling, a _dependency relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client).
+
+
 According to the problem context, you can personalize actors, selecting differents icons in the property object panel: 
 
 https://my-project-probando.googlecode.com/svn/ator1.png
 
-*Some of differents icons supporting for the itSIMPLE class diagram:*
+
+*Some of differents icons supporting for the _itSIMPLE4.0_ class diagram:*
+
+
 
 || https://my-project-probando.googlecode.com/svn/imag_atores/airplane1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Container1.png  ||  https://my-project-probando.googlecode.com/svn/imag_atores/LorryGreen.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/Elephant1.png ||
 || https://my-project-probando.googlecode.com/svn/imag_atores/Ambulance.png || https://my-project-probando.googlecode.com/svn/imag_atores/Desk1.png || https://my-project-probando.googlecode.com/svn/imag_atores/molecule-003.png || https://my-project-probando.googlecode.com/svn/imag_atores/Search1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Target1.png ||
@@ -66,18 +75,6 @@ https://my-project-probando.googlecode.com/svn/ator1.png
 || https://my-project-probando.googlecode.com/svn/imag_atores/Clock.png || https://my-project-probando.googlecode.com/svn/imag_atores/Java1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite1.png || https://my-project-probando.googlecode.com/svn/imag_atores/System1.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Compass1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Key1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/System2.png ||
 || https://my-project-probando.googlecode.com/svn/imag_atores/Compass1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/LiftTruck1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2.png || https://my-project-probando.googlecode.com/svn/imag_atores/Tanker1.png ||
-
-
-
-
-
-
-
- * An _Actor_ is a user of the _system_; user can mean a human user, a machine, or even another system or subsystem in the model. Anything that interacts with the system from the outside or system boundary is termed an _Actor_. Actors are typically associated with _Use Cases_.
- * A _Use Case_ is a _UML_ modeling element that describes how a user of the proposed system interacts with the system to perform a discrete unit of work. It describes and signifies a single interaction over time that has meaning for the end user (person, machine or other system), and is required to leave the system in a complete state: the interaction either completed or rolled back to the initial state.
- * _Association_ refers to how individual use cases can be linked together based upon certain functionality.
- * In _UML_ modeling, a _dependency relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client).
-
 
 ==_Class diagram_==
 
