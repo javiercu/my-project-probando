@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-[Modelling#Icons_Differents_icons_supporting_for_the_itSIMPLE4.0_class_diagram: Go back ]
+[Modelling#Icons Go back]
 
 || https://my-project-probando.googlecode.com/svn/imag_atores/airplane1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Container1.png  ||  https://my-project-probando.googlecode.com/svn/imag_atores/LorryGreen.png || https://my-project-probando.googlecode.com/svn/imag_atores/Satellite2Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/Elephant1.png ||
 || https://my-project-probando.googlecode.com/svn/imag_atores/Ambulance.png || https://my-project-probando.googlecode.com/svn/imag_atores/Desk1.png || https://my-project-probando.googlecode.com/svn/imag_atores/molecule-003.png || https://my-project-probando.googlecode.com/svn/imag_atores/Search1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Target1.png ||
