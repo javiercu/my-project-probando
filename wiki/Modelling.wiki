@@ -88,8 +88,9 @@ https://my-project-probando.googlecode.com/svn/dclasse.png
 
 ===_Toolbox Elements_===
 
- * Class: A _Class_ is a representation of objects that reflects their structure and behavior within the system. It is a template from which actual running instances are created.
-A _Class_ can have attributes (data) and methods (operations or behavior). Classes can inherit characteristics from parent Classes and delegate behavior to other Classes. Class models usually describe the logical structure of the system and are the building blocks from which components are built.
+SCREEN OF TOOLBOX ELEMENTS OF CLASS DIAGRAM
+
+ * Class: A _Class_ is a representation of objects that reflects their structure and behavior within the system. It is a template from which actual running instances are created. A _Class_ can have attributes (data) and methods (operations or behavior). Classes can inherit characteristics from parent Classes and delegate behavior to other Classes. Class models usually describe the logical structure of the system and are the building blocks from which components are built.
 
 
  
