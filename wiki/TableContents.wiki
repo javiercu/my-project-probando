@@ -20,6 +20,7 @@
   * [Modelling Modelling process]
      * [Modelling#Use_Case_Diagram Use case diagram]
        * [Modelling#Toolbox_Elements_and_Connectors Toolbox Elements and Connectors]
+       * [Modelling#Icons itSIMPLE supporting Icons]
      * [Modelling#Class_diagram Class diagram]
 
 
