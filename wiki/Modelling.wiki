@@ -39,7 +39,7 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
 || https://my-project-probando.googlecode.com/svn/imag_atores/Attendant1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Desk2.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Attendant1Large.png || https://my-project-probando.googlecode.com/svn/imag_atores/Documents1.png ||  
 || https://my-project-probando.googlecode.com/svn/imag_atores/Ball.png|| https://my-project-probando.googlecode.com/svn/imag_atores/Dog1.png || 
-|| https://my-project-probando.googlecode.com/svn/imag_atores/BasicPetriNetPlace.png || https://my-project-probando.googlecode.com/svn/imag_atores/Energy1.png ||  https://my-project-probando.googlecode.com/svn/imag_atores/Elephant1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/BasicPetriNetPlace.png || https://my-project-probando.googlecode.com/svn/imag_atores/Energy1.png 
 || https://my-project-probando.googlecode.com/svn/imag_atores/BasicPetriNetTransition.png || https://my-project-probando.googlecode.com/svn/imag_atores/Engine.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/Bomb1.png || https://my-project-probando.googlecode.com/svn/imag_atores/Excavator.png || 
 || https://my-project-probando.googlecode.com/svn/imag_atores/BriefCase1.png || https://my-project-probando.googlecode.com/svn/imag_atores/FireEscape.png || 
