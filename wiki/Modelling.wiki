@@ -45,7 +45,7 @@ It is always useful to choose some [Icons icon] to the actor, because this gives
 
 === Elements Properties ====
 
-You can 
+You can specify properties in the _Properties Object Panel_ for each _Use Case Diagram_ element:
 
 https://my-project-probando.googlecode.com/svn/objectpCU.png
 
