@@ -96,14 +96,14 @@ A _Class_ is a representation of objects that reflects their structure and behav
 A _Class_ can have attributes (data) and methods (operations or behavior) and classes can inherit characteristics from parent Classes and delegate behavior to other Classes. 
 Class models usually describe the logical structure of the system and are the building blocks from which components are built. 
 
-*According _OMG UML Specification_*, the main purpose of a _class_ is to specify a classification of objects and to specify the features that characterize the structure and behavior of those objects. _Objects_ of a _class_ must contain values for each attribute that is a member of that _class_, in accordance with the characteristics of the _attribute_, for example its type and multiplicity. 
+ * According _OMG UML Specification_: the main purpose of a _class_ is to specify a classification of objects and to specify the features that characterize the structure and behavior of those objects. _Objects_ of a _class_ must contain values for each attribute that is a member of that _class_, in accordance with the characteristics of the _attribute_, for example its type and multiplicity. 
 When an object is instantiated in a _class_, for every _attribute_ of the class that has a specified default, if an initial value of the attribute is not specified explicitly for the instantiation, then the default value specification is evaluated to set the initial value of the attribute for the object.
 
 ==== Enumeration ==== 
 
 An _Enumeration_ is a data type, whose instances can be any of a number of user-defined enumeration literals. It is possible to extend the set of applicable enumeration literals in other packages or profiles. 
 
- * According _OMG UML Specification_*: an enumeration is a data type whose values are enumerated in the model as enumeration literals.
+ * According _OMG UML Specification_: an enumeration is a data type whose values are enumerated in the model as enumeration literals.
 
 ==== Class Association ==== 
 
