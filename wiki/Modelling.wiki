@@ -34,7 +34,7 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
 || https://my-project-probando.googlecode.com/svn/usecase.png ||https://my-project-probando.googlecode.com/svn/dependency.png ||
 
 
-https://my-project-probando.googlecode.com/svn/imag_atores/agent1 
+https://my-project-probando.googlecode.com/svn/imag_atores/agent1.png 
 
 
 
