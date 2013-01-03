@@ -90,12 +90,38 @@ https://my-project-probando.googlecode.com/svn/dclasse.png
 
 SCREEN OF TOOLBOX ELEMENTS OF CLASS DIAGRAM
 
- * Class: A _Class_ is a representation of objects that reflects their structure and behavior within the system. It is a template from which actual running instances are created. A _Class_ can have attributes (data) and methods (operations or behavior). Classes can inherit characteristics from parent Classes and delegate behavior to other Classes. Class models usually describe the logical structure of the system and are the building blocks from which components are built. According _OMG UML Specification_, the purpose of a class is to specify a classification of objects and to specify the features that characterize the structure and behavior of those objects. Objects of a class must contain values for each attribute that is a member of that class, in accordance with the characteristics of the attribute, for example its type and multiplicity. When an object is instantiated in a class, for every attribute of the class that has a specified default, if an initial value of the attribute is not specified explicitly for the instantiation, then the default value specification is evaluated to set the initial value of the attribute for the object.
+==== Class ==== 
 
- * Enumeration: An Enumeration is a data type, whose instances can be any of a number of user-defined enumeration literals. It is possible to extend the set of applicable enumeration literals in other packages or profiles. 
-According _OMG UML Specification_: an enumeration is a data type whose values are enumerated in the model as enumeration literals.
+A _Class_ is a representation of objects that reflects their structure and behavior within the system. It is a template from which actual running instances are created. 
+A _Class_ can have attributes (data) and methods (operations or behavior) and classes can inherit characteristics from parent Classes and delegate behavior to other Classes. 
+Class models usually describe the logical structure of the system and are the building blocks from which components are built. 
 
- * Class Association: An _Association_ implies two model elements have a relationship, usually implemented as an instance variable in one Class. The connector can include named roles at each end, multiplicity, direction and constraints. Association is the general relationship type between elements. To connect more than two elements in an association, you can use the N-Ary Association 1246 element. According _OMG UML Specification_: An association specifies a semantic relationship that can occur between typed instances. It has at least two ends represented by properties, each of which is connected to the type of the end. More than one end of the association may have the same type. An end property of an association that is owned by an end class or that is a navigable owned end of the association indicates that the association is navigable from the opposite ends; otherwise, the association is not navigable from the opposite ends.
+*According _OMG UML Specification_*, the main purpose of a _class_ is to specify a classification of objects and to specify the features that characterize the structure and behavior of those objects. _Objects_ of a _class_ must contain values for each attribute that is a member of that _class_, in accordance with the characteristics of the _attribute_, for example its type and multiplicity. 
+When an object is instantiated in a _class_, for every _attribute_ of the class that has a specified default, if an initial value of the attribute is not specified explicitly for the instantiation, then the default value specification is evaluated to set the initial value of the attribute for the object.
+
+==== Enumeration ==== 
+
+An _Enumeration_ is a data type, whose instances can be any of a number of user-defined enumeration literals. It is possible to extend the set of applicable enumeration literals in other packages or profiles. 
+
+*According _OMG UML Specification_*: an enumeration is a data type whose values are enumerated in the model as enumeration literals.
+
+==== Class Association ==== 
+
+An _Association_ implies two model elements have a _relationship_, usually implemented as an instance variable in one _Class_. The connector can include _named roles_ at each end, _multiplicity_, _direction_ and _constraints_. _Association_ is the general main relationship type between elements. 
+To connect more than two elements in an association, you can use the _N-Ary_ Association element. 
+
+*According _OMG UML Specification_:* 
+An _association_ specifies a semantic relationship that can occur between typed instances. It has at least two ends represented by properties, each of which is connected to the type of the end. More than one end of the association may have the same type. An end property of an association that is owned by an end class or that is a navigable owned end of the association indicates that the association is navigable from the opposite ends; otherwise, the association is not navigable from the opposite ends.
+
+==== Generalization ====
+
+A _Generalization_ is used to indicate inheritance between classes. Drawn from the specific classifier to a general classifier, the
+generalize implication is that the source inherits the target's characteristics.
+
+*According _OMG UML Specification_:*
+A _generalization_ is a taxonomic relationship between a more general classifier and a more specific classifier. Each instance of the specific classifier is also an indirect instance of the general classifier. Thus, the specific classifier inherits the features of the more general classifier.
+
+
 
 
 
