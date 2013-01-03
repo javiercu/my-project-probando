@@ -34,7 +34,32 @@ https://my-project-probando.googlecode.com/svn/cuexample3.png
 || https://my-project-probando.googlecode.com/svn/usecase.png ||https://my-project-probando.googlecode.com/svn/dependency.png ||
 
 
-https://my-project-probando.googlecode.com/svn/imag_atores/agent1.png 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/airplane1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Ambulance.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Attendant1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Attendant1Large.png|| 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Ball.png|| 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/BasicPetriNetPlace.png|| 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/BasicPetriNetTransition.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Bomb1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/BriefCase1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/BriefCase2.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Bucket1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Bucket2.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Buldings1.png || 
+
+|| https://my-project-probando.googlecode.com/svn/imag_atores/BusinessMan.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/CabrioletRed.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Calculator.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Car1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Car1Large.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Car2.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Cargo1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Charts1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Charts2Large.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Clock.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Compass1.png || 
+|| https://my-project-probando.googlecode.com/svn/imag_atores/Compass1Large.png || 
 
 
 
