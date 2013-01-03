@@ -45,7 +45,7 @@ According to the problem context, you can personalize actors, selecting differen
 https://my-project-probando.googlecode.com/svn/ator1.png
 
 
-*Some of differents icons supporting for the _itSIMPLE4.0_ class diagram:*
+[Icons Differents icons supporting for the _itSIMPLE4.0_ class diagram:]
 
 
 
