@@ -44,12 +44,11 @@ The following are many of the things you can do in the Projects Manager:
 
 == _Objects Properties_ ==
 
-The _Object Properties_ displays the properties for the currently selected component for each diagram into the cycle life of development process.
-
-== _Diagram View_ ==
+The Object Properties displays the properties for the currently selected component. All elements have properties, whose values can be modified in the development environment. 
+The Object Properties has some tabs for each elements where the properties are specified. 
 
 == _Additional Information Panel_ ==
 
 == _Status Information Bar_ ==
 
-== _Status Information Bar_ == 
+== _Additional Information Status_ == 
