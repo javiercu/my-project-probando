@@ -16,7 +16,7 @@
      * [BasicFuncionalities#Projects_Manager Projects Manager]
      * [BasicFuncionalities#Object_Properties Objects Properties]
      * [BasicFuncionalities#Additional_Information_Panel Additional Information Panel]
-     * [BasicFuncionalities#Status_Information_Bar Status Information Bar]
+     * [BasicFuncionalities#Information_Bar Information Bar]
   * [Modelling Modelling process]
      * [Modelling#Use_Case_Diagram Use case diagram]
        * [Modelling#Toolbox_Elements_and_Connectors Toolbox Elements and Connectors]
