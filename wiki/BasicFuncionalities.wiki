@@ -31,7 +31,20 @@ EXPLICAR OS OUTROS PANEIS.
 
 == _Projects Manager_ ==
 
+_Project Manager_ displays the file structure of a project or projects group. A project group is a collection of projects.
+Sometimes you need to create more than project for an application. You can control the build order for those files by rearranging them 
+in the Project Manager Panel. You can also set local options and perform a variety of other tasks by using the pop-up menu available for each file project.
+
+The following are many of the things you can do in the Projects Manager:
+ * Create a project group to hold one or more projects.
+ * Add or remove projects in a project group.
+ * Add or remove diagrams from a project.
+ * Select a project for further operations.
+ * Importing modeling pattern.
+
 == _Objects Properties_ ==
+
+The _Object Properties_ displays the properties for the currently selected component for each diagram into the cycle life of development process.
 
 == _Diagram View_ ==
 
