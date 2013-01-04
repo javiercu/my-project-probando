@@ -35,7 +35,7 @@ https://my-project-probando.googlecode.com/svn/toolbarCU.png
 
 An _Actor_ is a user of the _system_; user can mean a human user, a machine, or even another system or subsystem in the model. Anything that interacts with the system from the outside or system boundary is termed an _Actor_. Actors are typically associated with _Use Cases_.
 
-For create an _Actor_ with _itSIMPLE_ tool, you must click on the _Actor_ icon (https://my-project-probando.googlecode.com/svn/actor.png) at the toolbar and choose on the _Diagram View Area_ where you want put the it.
+For create an _Actor_ with _itSIMPLE_ tool, you must click on the _Actor_ icon (https://my-project-probando.googlecode.com/svn/actor.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
 
 According to the problem context, you can personalize actors, selecting different icons in the _Properties Object_ panel: 
 
@@ -88,13 +88,23 @@ https://my-project-probando.googlecode.com/svn/toolbarDC.png
 
 ==== Class ==== 
 
-A _Class_ (https://my-project-probando.googlecode.com/svn/Class.png) is a representation of objects that reflects their structure and behavior within the system. It is a template from which actual running instances are created. 
+A _Class_ is a representation of objects that reflects their structure and behavior within the system. It is a template from which actual running instances are created. 
 A _Class_ can have attributes (data) and methods (operations or behavior) and classes can inherit characteristics from parent Classes and delegate behavior to other Classes. 
 Class models usually describe the logical structure of the system and are the building blocks from which components are built. 
 
  * According _OMG UML Specification_: the main purpose of a _class_ is to specify a classification of objects and to specify the features that characterize the structure and behavior of those objects. _Objects_ of a _class_ must contain values for each attribute that is a member of that _class_, in accordance with the characteristics of the _attribute_, for example its type and multiplicity. 
-When an object is instantiated in a _class_, for every _attribute_ of the class that has a specified default, if an initial value of the attribute is not specified explicitly for the instantiation, then the default value specification is evaluated to set the initial value of the attribute for the object.
 
+For create a _Class_ with _itSIMPLE_ tool, you must click on the _Class_ icon (https://my-project-probando.googlecode.com/svn/Class.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
+
+In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can define some other properties of this class:
+
+ * Base tab: You can specify a _Name_ and _Description_ and choose some [Icons icon] for this _Class_
+ * Attributes tab: For define some attributes (name, type and a initial value). Will appear other three tabs:
+   # Operator: In the bottom section of this panel will appear four three tabs: New attribute (POR FOTO), delete selected attribute and edit selected attribute (POR FOTO).
+ * Operator tab: For define operators. In the bottom section of this panel will appear four three tabs: PONER FOTO
+   # Additional: For specify the stereotype of class (agent or utility)
+   # Constraints: For specify some constraints.
+ 
 ==== Enumeration ==== 
 
 An _Enumeration_ (https://my-project-probando.googlecode.com/svn/Class.png) is a data type, whose instances can be any of a number of user-defined enumeration literals. It is possible to extend the set of applicable enumeration literals in other packages or profiles. 
@@ -107,6 +117,14 @@ An _Association_ (https://my-project-probando.googlecode.com/svn/association.png
 To connect more than two elements in an association, you can use the _N-Ary_ Association element. 
 
  * According _OMG UML Specification_: an _association_ specifies a semantic relationship that can occur between typed instances. It has at least two ends represented by properties, each of which is connected to the type of the end. More than one end of the association may have the same type. An end property of an association that is owned by an end class or that is a navigable owned end of the association indicates that the association is navigable from the opposite ends; otherwise, the association is not navigable from the opposite ends.
+
+For define an association with _itSIMPLE_ tool, you must first click on one _class_ where you want define the association and after click on the other _class_ to complete the association.
+
+In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can define some other properties of this association:
+
+  * Base Tab: For define a name and a brief description for this association.
+  * Role A and Role B Tabs: Role is at each association end and it works as a predicate in a modeling (must have a name, navigation, a type and multiplicity).
+
 
 ==== Generalization ====
 
