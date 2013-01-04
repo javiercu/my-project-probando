@@ -42,7 +42,7 @@ The following are many of the things you can do in the Projects Manager:
  * Select a project for further operations.
  * Importing modeling pattern.
 
-== _Objects Properties_ ==
+== _Object Properties_ ==
 
 The Object Properties displays the properties for the currently selected component. All elements have properties, whose values can be modified in the development environment. 
 The Object Properties has some tabs for each elements where the properties are specified. 
