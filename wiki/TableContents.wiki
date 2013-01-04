@@ -14,7 +14,7 @@
        * [BasicFuncionalities#Opening_a_Project Opening a Project]
        * [BasicFuncionalities#Saving_a_Project Saving a Project]
      * [BasicFuncionalities#Projects_Manager Projects Manager]
-     * [BasicFuncionalities#Objects_Properties Objects Properties]
+     * [BasicFuncionalities#Object_Properties Objects Properties]
      * [BasicFuncionalities#Additional_Information_Panel Additional Information Panel]
      * [BasicFuncionalities#Status_Information_Bar Status Information Bar]
   * [Modelling Modelling process]
