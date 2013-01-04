@@ -49,6 +49,4 @@ The Object Properties has some tabs for each elements where the properties are s
 
 == _Additional Information Panel_ ==
 
-== _Information Bar_ ==
-
-== _Additional Information Status_ == 
+== _Information Panel_ ==
