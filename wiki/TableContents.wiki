@@ -15,7 +15,6 @@
        * [BasicFuncionalities#Saving_a_Project Saving a Project]
      * [BasicFuncionalities#Projects_Manager Projects Manager]
      * [BasicFuncionalities#Object_Properties Objects Properties]
-     * [BasicFuncionalities#Additional_Information_Panel Additional Information Panel]
      * [BasicFuncionalities#Information_Panel Information Panel]
   * [Modelling Modelling process]
      * [Modelling#Use_Case_Diagram Use case diagram]
