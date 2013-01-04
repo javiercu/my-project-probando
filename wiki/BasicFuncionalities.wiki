@@ -48,5 +48,5 @@ The Object Properties displays the properties for the currently selected compone
 The Object Properties has some tabs for each elements where the properties are specified. 
 
 == _Information Panel_ ==
-Puedes obtener un resumen de algunos elementos en el panel de information, como por ejemplo, todos los datos concernientes a los casos de uso:
+You can get an overview of some elements in the information panel, for example, all data concerning the use cases:
 https://my-project-probando.googlecode.com/svn/PanelInfo.png
