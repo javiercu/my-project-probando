@@ -49,4 +49,5 @@ The Object Properties has some tabs for each elements where the properties are s
 
 == _Information Panel_ ==
 You can get an overview of some elements in the information panel, for example, all data concerning the use cases:
+
 https://my-project-probando.googlecode.com/svn/PanelInfo.png
