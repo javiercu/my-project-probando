@@ -124,6 +124,8 @@ In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can 
 
   * Base Tab: For define a name and a brief description for this association.
   * Role A and Role B Tabs: Role is at each association end and it works as a predicate in a modeling (must have a name, navigation, a type and multiplicity).
+   # Additional: For specify the changeability (changeable, addOnly and frozen)
+   # Constraints: For specify some constraints.
 
 
 ==== Generalization ====
