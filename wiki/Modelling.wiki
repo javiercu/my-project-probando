@@ -51,7 +51,7 @@ A _Use Case_ is a _UML_ modeling element that describes how a user of the propos
 
 For create an _Use Case_ with _itSIMPLE_ tool, you must click on the _Use Case_ icon (https://my-project-probando.googlecode.com/svn/useCase1.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
 
-In the _Object Properties_ panel you can define some other properties:
+In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can define some other properties:
  * Base tab: You can specify a _Name_ and _Description_ of this _Use Case_.
  * Contraints: After we have specified the base in the properties, you can specify the _Constraints_ of this Use Case. In the bottom section of this panel will appear four news tabs: PONER FOTO
    # The first tab (FOTO ICONO) is Pre-Conditions where you can define the pre-conditions of this use case. This constraint answers the question: What do I have to specify as pre-conditions for this use case to work?
