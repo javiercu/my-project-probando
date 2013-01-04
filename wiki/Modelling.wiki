@@ -43,7 +43,7 @@ https://my-project-probando.googlecode.com/svn/ator1.png
 
 It is always useful to choose some [Icons icon] to the actor, because this gives a better interpretation to your _Use Case Diagram_.
 
-In the [BasicFuncionalities#Object_Properties Object Properties] panel you can define some other properties like a _name_ and a _brief description_ of the actor. 
+In the [BasicFuncionalities#Object_Properties Object Properties panel] you can define some other properties like a _name_ and a _brief description_ of the actor. 
 
 ==== Use Case ====
 
