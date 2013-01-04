@@ -2,10 +2,6 @@
 
  ==Table of contents==
 
-
-
-
-
   * [Introduction]
   * [GettingStarted Getting Started]
      * [GettingStarted#Installing_itSIMPLE Installing itSIMPLE]
@@ -19,7 +15,6 @@
        * [BasicFuncionalities#Saving_a_Project Saving a Project]
      * [BasicFuncionalities#Projects_Manager Projects Manager]
      * [BasicFuncionalities#Objects_Properties Objects Properties]
-     * [BasicFuncionalities#Diagram_View Diagram View]
      * [BasicFuncionalities#Additional_Information_Panel Additional Information Panel]
      * [BasicFuncionalities#Status_Information_Bar Status Information Bar]
   * [Modelling Modelling process]
