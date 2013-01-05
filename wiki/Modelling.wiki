@@ -63,7 +63,6 @@ In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can 
 
 You can see a resume of the use case specification better in the _Information Panel_.
  
- 
 ==== Association ====
 
 An _Association_ (https://my-project-probando.googlecode.com/svn/association.png) refers to how individual use cases can be linked together based upon certain functionality. 
@@ -136,19 +135,11 @@ generalize implication is that the source inherits the target's characteristics.
 
 For define an generalization with _itSIMPLE_ tool, you must first click on the class where you want define the association and after click on the other class to complete the association.
 
-
-
-
-
-
-
-
-
-
- 
-
 ==_State machine diagram_==
 
+A State Machine diagram illustrates how an element (often a Class) can move between states, classifying its behavior according to transition triggers and constraining guards. Other aspects of State Machine diagrams further depict and explain movement and behavior. 
+
+According to _OMG UML Superstructure Specification_ State Machine representations in UML are based on the Harel State Chart Notation, and therefore are sometimes referred to as State Charts.
 
 
 ===_Toolbox Elements and connectors_===
