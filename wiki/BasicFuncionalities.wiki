@@ -15,6 +15,7 @@ https://my-project-probando.googlecode.com/svn/itSimpleScreen.png
 https://my-project-probando.googlecode.com/svn/toolbars.png
 
 === *Creating* a new UML project===
+
 To create a new project, clic the _New UML project_ button https://my-project-probando.googlecode.com/svn/newUML1.png on the Standard toolbar, or choose _New project_ from the _File_ menu or use _Ctrl + N_ shortcuts. If you use _New project_ choice you can beside create a _New PDDL project_ ((_Ctrl + P_ shortcuts). 
 
 ===_Opening a Project_===
@@ -24,10 +25,9 @@ To open a documen click the _Open project_ button on the Standard toolbar: https
 You can open recent project clicking the _Open recent project_ choice from _File_ menu. 
 
 ===_Saving a Project_===
+
 To save a document click the _Save project_ button on the Standard toolbar https://my-project-probando.googlecode.com/svn/save1.png, or choose _Save project_ from the _File_ menu.  When you save the project for the first time, *itSIMPE4.0* displays the _Save As dialog box so that you can choice the saving path.
 *itSIMPE4.0* offer you _Save All_ choice: https://my-project-probando.googlecode.com/svn/save2.png, and you can save a project whith other extensions like _.xml_ clicking _ Save as_ choice from from the _File_ menu.
-
-EXPLICAR OS OUTROS PANEIS.
 
 == _Projects Manager_ ==
 
