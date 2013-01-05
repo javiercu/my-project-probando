@@ -149,6 +149,14 @@ To define an _State machine diagram_ with itSIMPLE tool, you must first specify 
 
 https://my-project-probando.googlecode.com/svn/toolbarSD.png
 
+In the _Properties Object_ you can describe a description for you state machine. In this same panel there is othet tab (_Internal conditions_). 
+
+Internal conditions are also situations similarly to preconditions and post conditions.
+When a transition has as origen a state machine that has “internal conditions” implies  that “_Internal Conditions U Preconditions_” are necessary to fire a transition, and when a transition has a destination a state machine that has “internal conditions” implies that “_Post Conditions U Internal Conditions_” will effect changes in the world.
+
+
+
+
 ==== State ====
 
 A _State_ (https://my-project-probando.googlecode.com/svn/state.png) represents a situation where some invariant condition holds; this condition can be static (waiting for an event) or dynamic (performing a set of activities).
@@ -158,3 +166,5 @@ State modeling is usually related to _Classes_ , and describes the enableable st
  * According _OMG UML Specification_: A state models a situation during which some (usually implicit) invariant condition holds. The invariant may represent a static situation such as an object waiting for some external event to occur. However, it can also model dynamic conditions such as the process of performing some activity (i.e., the model element under consideration enters the state when the activity commences and leaves it as soon as the activity is completed).
 
 For create a _state_ with _itSIMPLE_ tool, you must click on the _state_ icon (https://my-project-probando.googlecode.com/svn/state.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
+
+For each state you can define 
