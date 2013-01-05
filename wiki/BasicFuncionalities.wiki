@@ -46,7 +46,7 @@ The following are many of the things you can do in the Projects Manager:
  * Importing modeling pattern.
 
 If you right-click on an item in the _Projects Manager_ panel, you can perform additional actions such as adding
-new project, creating diagrams for each project, delete some diagrams and so on. You can also edit the name of any item in the _Projects Manager_ panel by selecting the item and editing its information enable in _Properties Objects_ panel.
+new project, creating diagrams for each project, delete some diagrams and so on. You can also edit the name of any item in the _Projects Manager_ panel by selecting the item and editing its information in _Properties Objects_ panel.
 
 == _Object Properties_ ==
 
