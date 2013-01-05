@@ -47,6 +47,10 @@ The following are many of the things you can do in the Projects Manager:
 The Object Properties displays the properties for the currently selected component. All elements have properties, whose values can be modified in the development environment. 
 The Object Properties has some tabs for each elements where the properties are specified. 
 
+== _Diagram View_==
+The Diagram View is the main workspace area that enables you to create and display diagrams. You can open many diagrams, but you can view only one at a time. You open the first diagram by right-clicking on
+the diagram name in the _Projects Manager_. 
+
 == _Information Panel_ ==
 You can get an overview of some elements in the information panel, for example, all data concerning the use cases:
 
