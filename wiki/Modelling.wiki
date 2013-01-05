@@ -93,7 +93,8 @@ Class models usually describe the logical structure of the system and are the bu
 
  * According _OMG UML Specification_: the main purpose of a _class_ is to specify a classification of objects and to specify the features that characterize the structure and behavior of those objects. _Objects_ of a _class_ must contain values for each attribute that is a member of that _class_, in accordance with the characteristics of the _attribute_, for example its type and multiplicity. 
 
-For create a _Class_ with _itSIMPLE_ tool, you must click on the _Class_ icon (https://my-project-probando.googlecode.com/svn/Class.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
+For create a _Class_ wi
+th _itSIMPLE_ tool, you must click on the _Class_ icon (https://my-project-probando.googlecode.com/svn/Class.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
 
 In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can define some other properties of this class:
 
