@@ -93,8 +93,7 @@ Class models usually describe the logical structure of the system and are the bu
 
  * According _OMG UML Specification_: the main purpose of a _class_ is to specify a classification of objects and to specify the features that characterize the structure and behavior of those objects. _Objects_ of a _class_ must contain values for each attribute that is a member of that _class_, in accordance with the characteristics of the _attribute_, for example its type and multiplicity. 
 
-For create a _Class_ wi
-th _itSIMPLE_ tool, you must click on the _Class_ icon (https://my-project-probando.googlecode.com/svn/Class.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
+For create a _Class_ with _itSIMPLE_ tool, you must click on the _Class_ icon (https://my-project-probando.googlecode.com/svn/Class.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
 
 In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can define some other properties of this class:
 
@@ -149,3 +148,13 @@ https://my-project-probando.googlecode.com/svn/state_diagram.png
 To define an _State machine diagram_ with itSIMPLE tool, you must first specify in _Properties Object_ panel a _name_ and select a _class_ which is associated to the diagram. Select a choice _Open Diagram_ doing right click on _State Machine_ icon at _Projects Manager_ panel and will appear _Digram View_ area for building you state diagram with a tool bar for modeling:
 
 https://my-project-probando.googlecode.com/svn/toolbarSD.png
+
+==== State ====
+
+A _State_ (https://my-project-probando.googlecode.com/svn/state.png) represents a situation where some invariant condition holds; this condition can be static (waiting for an event) or dynamic (performing a set of activities).
+
+State modeling is usually related to _Classes_ , and describes the enableable states a Class or element can be in and the transitions that enable the element to move there.
+
+ * According _OMG UML Specification_: A state models a situation during which some (usually implicit) invariant condition holds. The invariant may represent a static situation such as an object waiting for some external event to occur. However, it can also model dynamic conditions such as the process of performing some activity (i.e., the model element under consideration enters the state when the activity commences and leaves it as soon as the activity is completed).
+
+For create a _state_ with _itSIMPLE_ tool, you must click on the _state_ icon (https://my-project-probando.googlecode.com/svn/state.png) at the toolbar and choose on the _Diagram View Area_ where you want put it.
