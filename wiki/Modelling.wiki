@@ -139,8 +139,10 @@ For define an generalization with _itSIMPLE_ tool, you must first click on the c
 
 A State Machine diagram illustrates how an element (often a Class) can move between states, classifying its behavior according to transition triggers and constraining guards. Other aspects of State Machine diagrams further depict and explain movement and behavior. 
 
-According to _OMG UML Superstructure Specification_ State Machine representations in UML are based on the Harel State Chart Notation, and therefore are sometimes referred to as State Charts.
+According to _OMG UML Superstructure Specification_ State Machine representations in UML are based on the _Harel State Chart Notation_, and therefore are sometimes referred to as _State Charts_.
 
 https://my-project-probando.googlecode.com/svn/state_diagram.png
 
 ===_Toolbox Elements and connectors_===
+
+https://my-project-probando.googlecode.com/svn/toolbarSD.png
