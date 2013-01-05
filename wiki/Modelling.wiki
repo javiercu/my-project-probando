@@ -151,7 +151,7 @@ https://my-project-probando.googlecode.com/svn/toolbarSD.png
 
 In the _Properties Object_ you can describe a description for you state machine. In this same panel there is othet tab (_Internal conditions_). 
 
-Internal conditions are also situations similarly to preconditions and post conditions.
+_Internal conditions_ are also situations similarly to preconditions and post conditions.
 When a transition has as origen a state machine that has “internal conditions” implies  that “_Internal Conditions U Preconditions_” are necessary to fire a transition, and when a transition has a destination a state machine that has “internal conditions” implies that “_Post Conditions U Internal Conditions_” will effect changes in the world.
 
 
