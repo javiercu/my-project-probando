@@ -33,6 +33,8 @@ To save a document click the _Save project_ button on the Standard toolbar https
 
 _Project Manager_ displays the file structure of a project or projects group. A project group is a collection of projects.
 
+https://my-project-probando.googlecode.com/svn/Object_Manager.png
+
 Essenciacialy the _Projects Manager_ panel enables you to navigate through the _itSIMPLE_ project space. It displays all projects, diagrams and elements.
 
 Sometimes you need to create more than project for an application. You can control the build order for those files by rearranging them 
