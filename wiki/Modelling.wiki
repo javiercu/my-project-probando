@@ -146,6 +146,6 @@ https://my-project-probando.googlecode.com/svn/state_diagram.png
 
 ===_Toolbox Elements and connectors_===
 
-For define an _State machine diagram_ with itSIMPLE tool, you must first specify in _Properties Object_ panel a _name_ and select a _class_ which is associated to the diagram. Select a choice _Open Diagram_ doing right click on _State Machine_ icon at _Projects Manager_ panel and will appear _Digram View_ area for building you state diagram with a tool bar for modeling:
+To define an _State machine diagram_ with itSIMPLE tool, you must first specify in _Properties Object_ panel a _name_ and select a _class_ which is associated to the diagram. Select a choice _Open Diagram_ doing right click on _State Machine_ icon at _Projects Manager_ panel and will appear _Digram View_ area for building you state diagram with a tool bar for modeling:
 
 https://my-project-probando.googlecode.com/svn/toolbarSD.png
