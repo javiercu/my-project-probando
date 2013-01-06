@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Planning =
+= Building Planning =
 
 https://my-project-probando.googlecode.com/svn/web-developer.png
