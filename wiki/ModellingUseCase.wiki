@@ -2,7 +2,7 @@
 #sidebar TableContents
 
 
-==_Use Case Diagram_ ==
+=_Use Case Diagram_ =
 
 A _Use Case diagram_ of _itSIMPLE4.0_ project, captures _Use Cases_ and relationships among _Actors_ and the _system_. It describes the functional requirements of the system, the manner in which outside things (_Actors_) interact at the system boundary, and the response of the system.
 Exemplo:
@@ -13,11 +13,11 @@ Select _Use Case diagram elements_ and _connectors_ of the _Use Case Diagram Tab
 
 https://my-project-probando.googlecode.com/svn/cuexample3.png
 
-===_Toolbox Elements and Connectors_===
+==_Toolbox Elements and Connectors_==
 
 https://my-project-probando.googlecode.com/svn/toolbarCU.png
 
-==== Actor ==== 
+=== Actor ===
 
 An _Actor_ is a user of the _system_; user can mean a human user, a machine, or even another system or subsystem in the model. Anything that interacts with the system from the outside or system boundary is termed an _Actor_. Actors are typically associated with _Use Cases_.
 
@@ -31,7 +31,7 @@ It is always useful to choose some [Icons icon] to the actor, because this gives
 
 In the [BasicFuncionalities#Object_Properties Object Properties panel] you can define some other properties like a _name_ and a _brief description_ of the actor. 
 
-==== Use Case ====
+=== Use Case ===
 
 A _Use Case_ is a _UML_ modeling element that describes how a user of the proposed system interacts with the system to perform a discrete unit of work. It describes and signifies a single interaction over time that has meaning for the end user (person, machine or other system), and is required to leave the system in a complete state: the interaction either completed or rolled back to the initial state.
 
@@ -55,7 +55,7 @@ An _Association_ (https://my-project-probando.googlecode.com/svn/association.png
 
 For define an association with _itSIMPLE_ tool, you must first click on the actor where you want define the association and after click on the use case to complete the association.
 
-==== Dependency ====
+=== Dependency ===
 
 In _UML_ modeling, a _dependency (https://my-project-probando.googlecode.com/svn/dependency1.png) relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client).
 
