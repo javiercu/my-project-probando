@@ -51,3 +51,6 @@ https://my-project-probando.googlecode.com/svn/propertyAssociation.png
 === Final state ====
 
 The Final state( https://my-project-probando.googlecode.com/svn/finalState.png )is used to define a Final state in an _State Machine Diagram_. 
+
+ * [ModellingUseCase Use case diagram]
+ * [ModellingClassDiagram Class diagram]
