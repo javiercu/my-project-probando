@@ -23,7 +23,7 @@ For create a _Class_ with _itSIMPLE_ tool, you must click on the _Class_ icon (h
 
 In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can define some other properties of this class:
 
- * Base tab: You can specify a _Name_ and _Description_ and choose some [Icons icon] for this _Class_
+ * Base tab: You can specify a _Name_ and _Description_ and choose some [Icons1 icon] for this _Class_
  * Attributes tab: For define some attributes  (name, type and a initial value). Will appear other three bottom tabs (_New attribute_ : https://my-project-probando.googlecode.com/svn/new.png, _Delete Selected Attribute_ : https://my-project-probando.googlecode.com/svn/delete.png and _Edit Selected Attribute_ :https://my-project-probando.googlecode.com/svn/edit.png ) : https://my-project-probando.googlecode.com/svn/attributeClasse.png
  * Operator tab: When you create a new operator, you can define its properties:https://my-project-probando.googlecode.com/svn/operator_properties.png
  * Additional: For specify the stereotype of class (agent or utility)
