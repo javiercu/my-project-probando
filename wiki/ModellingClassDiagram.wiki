@@ -1,17 +1,17 @@
 #summary A quick guide to getting started with itSimple project.
 #sidebar TableContents
 
-==_Class diagram_==
+=_Class diagram_=
 
 The _Class diagram_ of _itSIMPLE4.0_ captures the logical structure of the system; the _Classes_ and things that make up the model. It is a static model,  escribing what exists and what _attributes_ and _behavior_ it has, rather than how something is done. _Generalizations_  and _Associations_ are all valuable in reflecting inheritance, composition or usage, and connections, respectively.
 
 https://my-project-probando.googlecode.com/svn/dclasse1.png
 
-===_Toolbox Elements_===
+==_Toolbox Elements_==
 
 https://my-project-probando.googlecode.com/svn/toolbarDC.png
 
-==== Class ==== 
+=== Class ===
 
 A _Class_ is a representation of objects that reflects their structure and behavior within the system. It is a template from which actual running instances are created. 
 A _Class_ can have attributes (data) and methods (operations or behavior) and classes can inherit characteristics from parent Classes and delegate behavior to other Classes. 
@@ -29,13 +29,13 @@ In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can 
  * Additional: For specify the stereotype of class (agent or utility)
  * Constraints: For specify some constraints.
  
-==== Enumeration ==== 
+=== Enumeration ===
 
 An _Enumeration_ (https://my-project-probando.googlecode.com/svn/Class.png) is a data type, whose instances can be any of a number of user-defined enumeration literals. It is possible to extend the set of applicable enumeration literals in other packages or profiles. 
 
  * According _OMG UML Specification_: an enumeration is a data type whose values are enumerated in the model as enumeration literals.
 
-==== Class Association ==== 
+=== Class Association ===
 
 An _Association_ (https://my-project-probando.googlecode.com/svn/association.png) implies two model elements have a _relationship_, usually implemented as an instance variable in one _Class_. The connector can include _named roles_ at each end, _multiplicity_, _direction_ and _constraints_. _Association_ is the general main relationship type between elements. 
 To connect more than two elements in an association, you can use the _N-Ary_ Association element. 
@@ -51,8 +51,7 @@ In the [BasicFuncionalities#Object_Properties Object Properties panel]  you can 
    # Additional: For specify the changeability (changeable, addOnly and frozen)
    # Constraints: For specify some constraints.
 
-
-==== Generalization ====
+=== Generalization ===
 
 A _Generalization_ (https://my-project-probando.googlecode.com/svn/generalization.png) is used to indicate inheritance between classes. Drawn from the specific classifier to a general classifier, the
 generalize implication is that the source inherits the target's characteristics.
