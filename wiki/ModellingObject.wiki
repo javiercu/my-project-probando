@@ -1,10 +1,13 @@
 #summary One-sentence summary of this page.
 #sidebar TableContents
 
+= Modeling Object Diagram =
 Based on the objects defined in _Class Diagram_ you will begin to define the _Planning Problem_. This objects are instances of this classes.
 
 The first step is select for this project, _Planning Domain_ option in the _Projects Manager_ panel:
 
 https://my-project-probando.googlecode.com/svn/inspector_object.png
+
+== The Object Respository ==
 
 The _Object Respository_ is where we will have instances of classes (_Objects_), so that the goal is to store all objects which will be used in the _Initial_ and _Goal_ states represented by _Objects Diagram_.
