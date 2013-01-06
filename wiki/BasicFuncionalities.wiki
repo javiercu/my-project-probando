@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Show the basic itSIMPLE funcionalities.
 #sidebar TableContents
 
 = Basic Funcionalities=
