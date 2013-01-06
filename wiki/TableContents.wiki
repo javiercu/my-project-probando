@@ -24,6 +24,7 @@
        * [ModellingClassDiagram#Toolbox_Elements Toolbox Elements]
      * [ModellingStateDiagram State Machine Diagram]
        * [ModellingStateDiagram#Toolbox_Elements_and_connectors Toolbox Elements and connectors]
+     * [ModellingObject UML Object (snapshot) Diagram]
   * [Planning itSIMPLE Planning Process]
   * [PDDL itSIMPLE PDDL Translation]
 
