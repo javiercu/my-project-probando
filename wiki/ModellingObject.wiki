@@ -22,4 +22,4 @@ https://my-project-probando.googlecode.com/svn/toolbarObject.png
 
 An object (https://my-project-probando.googlecode.com/svn/object.png) is  a particular instance of a Class.
 
-For create an _Actor_ with _itSIMPLE_ tool, you must click on the _Object_ icon (https://my-project-probando.googlecode.com/svn/object.png) at the toolbar and choose on the _Diagram View Area_ where you want put it. After that you can define in _Object Properties_ panel, a _name_, select a class for which a _object_ is instance, and some brief description.
+For create an _Object_ with _itSIMPLE_ tool, you must click on the _Object_ icon (https://my-project-probando.googlecode.com/svn/object.png) at the toolbar and choose on the _Diagram View Area_ where you want put it. After that you can define in _Object Properties_ panel, a _name_, select a class for which a _object_ is instance, and some brief description.
