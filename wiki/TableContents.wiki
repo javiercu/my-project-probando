@@ -28,7 +28,9 @@
        * [ModellingObject#The_Object_Respository The Object Respository]
          * [ModellingObject#Toolbox_Elements_and_connectors Toolbox Elements and connectors]
   * [Analysis Plan Analysis]
+<wiki:comment>
   * [Planning itSIMPLE Planning Process]
+</wiki:comment>
   * [PDDL itSIMPLE PDDL Translation]
 
 
