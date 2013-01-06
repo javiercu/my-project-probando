@@ -43,8 +43,9 @@ An _Association_ (https://my-project-probando.googlecode.com/svn/association.png
 
 For define an association, you must first click on _Initial state_ icon and afterwards click on the _State_ to complete the association.
 
-You must choose the right action in the association's _Object Properties_.
+You must choose the right action in the association's _Object Properties_:
 
+https://my-project-probando.googlecode.com/svn/propertyAssociation.png
 === Final state ====
 
 The Initial state( https://my-project-probando.googlecode.com/svn/finalState.png )is used to define a Final state in an _State Machine Diagram_. 
