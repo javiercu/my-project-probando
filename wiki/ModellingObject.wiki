@@ -1,7 +1,7 @@
-#summary One-sentence summary of this page.
+#summary A quick guide to getting started with Use Object Diagram modeling in itSimple tool.
 #sidebar TableContents
 
-= Modeling Object Diagram =
+= Object Diagram Modeling  =
 Based on the objects defined in _Class Diagram_ you will begin to define the _Planning Problem_. This objects are instances of this classes.
 
 The first step is select for this project from _itSIMPLE_main screen, the _Planning Domain_ option in the _Projects Manager_ panel:
