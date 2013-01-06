@@ -45,6 +45,8 @@ It is always useful to choose some [Icons icon] to the actor, because this gives
 
 In the [BasicFuncionalities#Object_Properties Object Properties panel] you can define some other properties like a _name_ and a _brief description_ of the actor. 
 
+<wiki:comment>
+
 ==== Use Case ====
 
 A _Use Case_ is a _UML_ modeling element that describes how a user of the proposed system interacts with the system to perform a discrete unit of work. It describes and signifies a single interaction over time that has meaning for the end user (person, machine or other system), and is required to leave the system in a complete state: the interaction either completed or rolled back to the initial state.
@@ -183,3 +185,5 @@ For define an association, you must first click on _Initial state_ icon and afte
 ==== Final state ====
 
 The Initial state( https://my-project-probando.googlecode.com/svn/finalState.png )is used to define a Final state in an _State Machine Diagram_. 
+
+</wiki:comment>
