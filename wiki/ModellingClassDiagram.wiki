@@ -59,3 +59,6 @@ generalize implication is that the source inherits the target's characteristics.
  * According _OMG UML Specification_: a _generalization_ is a taxonomic relationship between a more general classifier and a more specific classifier. Each instance of the specific classifier is also an indirect instance of the general classifier. Thus, the specific classifier inherits the features of the more general classifier.
 
 For define an generalization with _itSIMPLE_ tool, you must first click on the class where you want define the association and after click on the other class to complete the association.
+
+ * [ModellingUseCase Use case diagram]
+ * [ModellingStateDiagram State Machine Diagram]
