@@ -29,7 +29,7 @@ When you need to create several objects of the same type, you can use _Multi Obj
 https://my-project-probando.googlecode.com/svn/multiobjects_def.png
 Now you can choose the right class, a quantity of objects and a list of number for each objects.
 
-So you can open the initial State written as Snapshot- init. In the Additional properties panel displays all objects for adding in the initial or goal states.
+So you can open the initial(goal) State written as Snapshot- init(goal). In the Additional properties panel displays all objects for adding in the initial or goal states.
 
 https://my-project-probando.googlecode.com/svn/panel_additional.png
 
