@@ -16,7 +16,7 @@ For create a new diagram you must do right click and select _Open Diagram_ optio
 
 https://my-project-probando.googlecode.com/svn/object_repositoy.png
 
-=== _Toolbox Elements and connectors_===
+===_Toolbox Elements and connectors_===
 
 https://my-project-probando.googlecode.com/svn/toolbarObject.png
 
