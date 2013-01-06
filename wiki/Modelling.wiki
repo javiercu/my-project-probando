@@ -173,3 +173,9 @@ The Initial element ( https://my-project-probando.googlecode.com/svn/initialStat
  * According _OMG UML Specification_: An initial pseudostate represents a default vertex that is the source for a single transition to the default state of a composite state. There can be at most one initial vertex in a region. The outgoing transition from the initial vertex may have a behavior, but not a trigger or guard.  An initial node is a control node at which flow starts when the activity is invoked.
 
 For create a _Initial state_ with _itSIMPLE_ tool, you must click on the _initial state_ icon ( https://my-project-probando.googlecode.com/svn/initialState.png ) at the toolbar and choose on the _Diagram View Area_ where you want put it.
+
+==== Action association ====
+
+An _Association_ (https://my-project-probando.googlecode.com/svn/association.png) implies two model elements have a _relationship_, in this case a _State_ and an _Initial state_
+
+For define an association, you must first click on _Initial state_ icon and afterwards click on the _State_ to complete the association.
