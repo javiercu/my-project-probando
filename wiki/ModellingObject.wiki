@@ -11,3 +11,7 @@ https://my-project-probando.googlecode.com/svn/inspector_object.png
 == The Object Respository ==
 
 The _Object Respository_ is where we will have instances of classes (_Objects_), so that the goal is to store all objects which will be used in the _Initial_ and _Goal_ states represented by _Objects Diagram_.
+
+For create a new diagram you must do right click and select _Open Diagram_ option and will appear in the _Diagram View_ a tool bar with all components for modeling process:
+
+https://my-project-probando.googlecode.com/svn/object_repository.png
