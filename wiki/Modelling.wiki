@@ -182,4 +182,4 @@ For define an association, you must first click on _Initial state_ icon and afte
 
 ==== Final state ====
 
-The Initial state( https://my-project-probando.googlecode.com/svn/finalState.png )is used to define a Final state in an _State Machine Diagram. 
+The Initial state( https://my-project-probando.googlecode.com/svn/finalState.png )is used to define a Final state in an _State Machine Diagram_. 
