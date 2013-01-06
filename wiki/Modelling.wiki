@@ -15,7 +15,12 @@ Some of the *UML diagrams* can be directly applied for planning domains such as 
 
 https://my-project-probando.googlecode.com/svn/modeling1.png
 
+ * [ModellingUseCase Use case diagram]
+ * [ModellingClassDiagram Class diagram]
+ * [ModellingStateDiagram State Machine Diagram]
 
+
+<wiki:comment>
 ==_Use Case Diagram_ ==
 
 A _Use Case diagram_ of _itSIMPLE4.0_ project, captures _Use Cases_ and relationships among _Actors_ and the _system_. It describes the functional requirements of the system, the manner in which outside things (_Actors_) interact at the system boundary, and the response of the system.
@@ -45,7 +50,7 @@ It is always useful to choose some [Icons icon] to the actor, because this gives
 
 In the [BasicFuncionalities#Object_Properties Object Properties panel] you can define some other properties like a _name_ and a _brief description_ of the actor. 
 
-<wiki:comment>
+
 
 ==== Use Case ====
 
