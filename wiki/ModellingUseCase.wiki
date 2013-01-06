@@ -1,4 +1,4 @@
-#summary A quick guide to getting started with itSimple project.
+#summary A quick guide to getting started with Use Case Diagram modeling in itSimple tool.
 #sidebar TableContents
 
 
