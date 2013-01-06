@@ -24,4 +24,5 @@ An object (https://my-project-probando.googlecode.com/svn/object.png) is  a part
 
 For create an _Object_ with _itSIMPLE_ tool, you must click on the _Object_ icon (https://my-project-probando.googlecode.com/svn/object.png) at the toolbar and choose on the _Diagram View Area_ where you want put it. After that you can define in _Object Properties_ panel, a _name_, select a class for which a _object_ is instance, and some brief description.
 
-When you need to create several objects of the same type, you can use _Multi Object_ (https://my-project-probando.googlecode.com/svn/multiobjects.png).
+When you need to create several objects of the same type, you can use _Multi Object_ (https://my-project-probando.googlecode.com/svn/multiobjects.png) and will be appear a new panel for it:
+(https://my-project-probando.googlecode.com/svn/multiobjects_panel.png)
