@@ -14,4 +14,4 @@ The _Object Respository_ is where we will have instances of classes (_Objects_),
 
 For create a new diagram you must do right click and select _Open Diagram_ option and will appear in the _Diagram View_ a tool bar with all components for modeling process:
 
-https://my-project-probando.googlecode.com/svn/object_repository.png
+https://my-project-probando.googlecode.com/svn/object_repositoy.png
