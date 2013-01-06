@@ -1,14 +1,8 @@
 #summary One-sentence summary of this page.
 #sidebar TableContents
 
-= Introduction =
+Based on the objects defined in _Class Diagram_ you will begin to define the _Planning Problem_. This objects are instances of this classes.
 
-Add your content here.
+The first step is select for this project, _Planning Domain_ option in the _Projects Manager_ panel:
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+https://my-project-probando.googlecode.com/svn/inspector_object.png
