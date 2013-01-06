@@ -45,7 +45,7 @@ For define an association, you must first click on _Initial state_ icon and afte
 
 You must choose the right action in the association's _Object Properties_:
 
-And if you need to define _Pre_ and _Post Conditions_ to the action you can do it in the _Conditions_ tab in the same panel.
+And if you need to define _Pre_ and _Post Conditions_ to the action you can do it in the _Conditions_ tab in the same panel or define somo effects in the _Effects_ tab.
 
 https://my-project-probando.googlecode.com/svn/propertyAssociation.png
 === Final state ====
