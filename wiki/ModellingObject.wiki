@@ -1,4 +1,4 @@
-#summary A quick guide to getting started with Use Object Diagram modeling in itSimple tool.
+#summary A problem modeling in itSIMPLE is a essencial part of development process to a planning problem solve.
 #sidebar TableContents
 
 = Object Diagram Modeling  =
