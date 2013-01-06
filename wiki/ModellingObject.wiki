@@ -8,7 +8,7 @@ The first step is select for this project from _itSIMPLE_main screen, the _Plann
 
 https://my-project-probando.googlecode.com/svn/inspector_object.png
 
-== The Object Respository ==
+==_The Object Respository_==
 
 The _Object Respository_ is where we will have instances of classes (_Objects_), so that the goal is to store all objects which will be used in the _Initial_ and _Goal_ states represented by _Objects Diagram_.
 
