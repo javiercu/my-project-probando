@@ -60,3 +60,6 @@ For define an association with _itSIMPLE_ tool, you must first click on the acto
 In _UML_ modeling, a _dependency (https://my-project-probando.googlecode.com/svn/dependency1.png) relationship_ is a relationship in which changes to one model element (the supplier) impact another model element (the client).
 
 For define an dependency with _itSIMPLE_ tool, you must first click on the actor where you want define it, and after click on the use case to complete the association.
+
+ * [ModellingClassDiagram Class diagram]
+ * [ModellingStateDiagram State Machine Diagram]
