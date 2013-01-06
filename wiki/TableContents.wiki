@@ -18,7 +18,7 @@
      * [BasicFuncionalities#Diagram_View Diagram View]
      * [BasicFuncionalities#Information_Panel Information Panel]
   * [Modelling Modelling process]
-     * [ModellingUseCase#Use_Case_Diagram Use case diagram]
+     * [ModellingUseCase Use case diagram]
        * [ModellingUseCase#Toolbox_Elements_and_Connectors Toolbox Elements and Connectors]
      * [ModellingClassDiagram Class diagram]
        * [ModellingClassDiagram#Toolbox_Elements Toolbox Elements]
