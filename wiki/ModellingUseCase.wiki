@@ -1,2 +1,2 @@
-
+#summary A quick guide to getting started with itSimple project.
 #sidebar TableContents
