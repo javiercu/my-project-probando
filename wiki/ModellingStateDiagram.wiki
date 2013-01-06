@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary A quick guide to getting started with State Machine Diagram modeling in itSimple tool.
 #sidebar TableContents
 
 =_State machine diagram_=
