@@ -27,3 +27,5 @@ For create an _Object_ with _itSIMPLE_ tool, you must click on the _Object_ icon
 When you need to create several objects of the same type, you can use _Multi Object_ (https://my-project-probando.googlecode.com/svn/multiobjects.png) and will be appear a new panel for it:
 
 https://my-project-probando.googlecode.com/svn/multiobjects_def.png
+
+Now you can choose the right class, a number of objects and a list of number for each objects.
