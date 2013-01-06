@@ -4,7 +4,7 @@
 = Modeling Object Diagram =
 Based on the objects defined in _Class Diagram_ you will begin to define the _Planning Problem_. This objects are instances of this classes.
 
-The first step is select for this project, _Planning Domain_ option in the _Projects Manager_ panel:
+The first step is select for this project from _itSIMPLE_main screen, the _Planning Domain_ option in the _Projects Manager_ panel:
 
 https://my-project-probando.googlecode.com/svn/inspector_object.png
 
