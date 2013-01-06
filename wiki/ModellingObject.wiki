@@ -24,6 +24,10 @@ An object (https://my-project-probando.googlecode.com/svn/object.png) is  a part
 
 For create an _Object_ with _itSIMPLE_ tool, you must click on the _Object_ icon (https://my-project-probando.googlecode.com/svn/object.png) at the toolbar and choose on the _Diagram View Area_ where you want put it. After that you can define in _Object Properties_ panel, a _name_, select a class for which a _object_ is instance, and some brief description.
 
+You can assigned values to Object's attributes in the _Object Properties_:
+
+https://my-project-probando.googlecode.com/svn/property_object.png
+
 When you need to create several objects of the same type, you can use _Multi Object_ (https://my-project-probando.googlecode.com/svn/multiobjects.png) and will be appear a new panel for it:
 
 https://my-project-probando.googlecode.com/svn/multiobjects_def.png
@@ -32,5 +36,6 @@ Now you can choose the right class, a quantity of objects and a list of number f
 So you can open the initial(goal) State written as Snapshot- init(goal). In the Additional properties panel displays all objects for adding in the initial or goal states.
 
 https://my-project-probando.googlecode.com/svn/panel_additional.png
+
 
  
