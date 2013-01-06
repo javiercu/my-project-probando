@@ -25,7 +25,7 @@
      * [ModellingStateDiagram State Machine Diagram]
        * [ModellingStateDiagram#Toolbox_Elements_and_connectors Toolbox Elements and connectors]
      * [ModellingObject UML Object (snapshot) Diagram]
-       *[ModellingObject#The_Object_Respository The Object Respository]
+       * [ModellingObject#The_Object_Respository The Object Respository]
   * [Planning itSIMPLE Planning Process]
   * [PDDL itSIMPLE PDDL Translation]
 
