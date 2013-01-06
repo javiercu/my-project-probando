@@ -20,7 +20,7 @@
   * [Modelling Modelling process]
      * [ModellingUseCase#Use_Case_Diagram Use case diagram]
        * [ModellingUseCase#Toolbox_Elements_and_Connectors Toolbox Elements and Connectors]
-     * [ModellingClassDiagram#Class_diagram Class diagram]
+     * [ModellingClassDiagram Class diagram]
        * [ModellingClassDiagram#Toolbox_Elements Toolbox Elements]
      * [Modelling#State_machine_diagram State Machine Diagram]
        * [Modelling#Toolbox_Elements_and_connectors Toolbox Elements and connectors]
