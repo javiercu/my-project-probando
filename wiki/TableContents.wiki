@@ -27,7 +27,7 @@
      * [ModellingObject UML Object (snapshot) Diagram]
        * [ModellingObject#The_Object_Respository The Object Respository]
          * [ModellingObject#Toolbox_Elements_and_connectors Toolbox Elements and connectors]
-  * [Analysis Plan Analysis]
+  * [PlanningProcess Plan Process]
   * [PDDL itSIMPLE PDDL Translation]
 
 
