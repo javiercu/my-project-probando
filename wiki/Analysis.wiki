@@ -28,4 +28,4 @@ Click in the tab Variables Tracking (*8:*), will appear a panel with all problem
  
 https://my-project-probando.googlecode.com/svn/planning_var.png
 
-Beside that, you can analyze this variables through a diagram click in the option Draw (*10:*) Chart and will be visualized in the panel Chart (*11:*)
+Beside that, you can analyze this variables through a diagram click in the option Draw Chart (*10:*) and will be visualized in the panel Chart (*11:*)
