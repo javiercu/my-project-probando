@@ -17,6 +17,6 @@ You can select a planner and optionally click in the option (*4:*) for each plan
 
 https://my-project-probando.googlecode.com/svn/planning_setconfig.png
 
-Finally will generate a Plan based on your modeling: Classes, State Machine, and Objects in the Plan view panel [poner figura].
+Finally will generate a Plan based on your modeling: Classes, State Machine, and Objects in the Plan view panel (https://my-project-probando.googlecode.com/svn/planning_engine.png).
 
 All information about a problem solution can be viewed in a report at the Plan Information Panel (Name Project, Domain, Problem, Planner and some statistics and so on) [PONER FOTO]
