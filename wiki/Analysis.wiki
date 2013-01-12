@@ -30,7 +30,9 @@ https://my-project-probando.googlecode.com/svn/planning_var.png
 
 Beside you can analyze this variables through a diagram click in the option _Draw Chart_ (*10:*) and will be visualized in the panel _Chart_ (*11:*)
 
-You can generate a movie based on the Plan click on _Movie Maker_ tab (*11:*). Before it, if you want have a better visualization of the situations, you can click  in (*18:*) and adjust Left and Right Windows (*15:*). Both images (Left and Right windows) can be fit on the screen using _Zoom In_ and _Zoom Out_ options (*12:*).
+You can generate a movie based on the Plan click on _Movie Maker_ tab (*11:*). Both images (Left and Right windows) can be fit on the screen using _Zoom In_ and _Zoom Out_ options (*12:*).
+
+If you prefer, you can either see the left or the right window clicking on(*18:*).
 
 https://my-project-probando.googlecode.com/svn/planning_movie.png
 
