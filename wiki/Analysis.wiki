@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary A quick guide to getting started to planning analysis in itSimple tool.
 #sidebar TableContents
 
 = Planning Process =
