@@ -1,7 +1,10 @@
 #summary One-sentence summary of this page.
 #sidebar TableContents
-= Building =
 
-You can click     Planning   tab to analyze, verify and validate your plan. After that, you can expand the project in the Projects Manager panel and  choose and  expand  in the problem Domain a problem to solve.  There is some planner versions for Windows and Linux Operating System. After than you can select a planner and optionally click in the option (PONER ICONO) for each planner to specify  some  parameters in the Planner Setting Configurations [PONER VENTANA DE CONFIGURACION]. Finally will generate a Plan based on your modeling: Classes, State Machine, and Objects in the Plan view panel [poner figura].
+= Planning Process =
+
+You can click on _Planning_ tab in the toolbar to analyze, verify and validate your plan. 
+
+After that, you can expand the project in the Projects Manager panel and  choose and  expand  in the problem Domain a problem to solve. There is some planner versions for Windows and Linux Operating System. After than you can select a planner and optionally click in the option (PONER ICONO) for each planner to specify  some  parameters in the Planner Setting Configurations [PONER VENTANA DE CONFIGURACION]. Finally will generate a Plan based on your modeling: Classes, State Machine, and Objects in the Plan view panel [poner figura].
 
 All information about a problem solution can be viewed in a report at the Plan Information Panel (Name Project, Domain, Problem, Planner and some statistics and so on) [PONER FOTO]
