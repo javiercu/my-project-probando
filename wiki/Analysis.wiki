@@ -21,4 +21,4 @@ Finally will generate a Plan (*5:*) based on your modeling: Classes, State Machi
 
 https://my-project-probando.googlecode.com/svn/planning_plan.png
 
-Clicking on the Result tab, all information about a problem solution can be viewed in a report at the Plan Information Panel (*6:*): Name Project, Domain, Problem, Planner and some statistics and so on, 
+Clicking on the Result tab (*7:*), all information about a problem solution can be viewed in a report at the Plan Information Panel (*6:*): Name Project, Domain, Problem, Planner and some statistics and so on, 
