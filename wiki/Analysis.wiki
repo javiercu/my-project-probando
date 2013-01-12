@@ -13,7 +13,7 @@ After that, you can expand the project in the Projects Manager panel and  choose
 https://my-project-probando.googlecode.com/svn/planning_planners.png
 
 There is some planner versions for _Windows_ and _Linux_ Operating System (*3:*). 
-You can select a planner and optionally click in the option (*4:*) for each planner to specify  some  parameters in the Planner Setting Configurations:
+You can select a planner and optionally click in the option (*4:*) for specify for each planner some parameters in the Planner Setting Configurations:
 
 https://my-project-probando.googlecode.com/svn/planning_setconfig.png
 
