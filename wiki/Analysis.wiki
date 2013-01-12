@@ -13,7 +13,7 @@ After that, you can expand the project in the Projects Manager panel and  choose
 https://my-project-probando.googlecode.com/svn/planning_planners.png
 
 There is some planner versions for _Windows_ and _Linux_ Operating System (*3:*). 
-You can select a planner and optionally click in the option (*4:*) for specify for each planner some parameters in the Planner Setting Configurations:
+You can select a planner and optionally click in the option (*4:*) for specify for each planner some parameters in the _Planner Setting Configurations_:
 
 https://my-project-probando.googlecode.com/svn/planning_setconfig.png
 
@@ -21,11 +21,11 @@ Finally will generate a Plan (*5:*) based on your modeling: Classes, State Machi
 
 https://my-project-probando.googlecode.com/svn/planning_plan.png
 
-Clicking on the Result tab (*7:*), all information about a problem solution can be viewed in a report at the Plan Information Panel (*6:*): Name Project, Domain, Problem, Planner and some statistics and so on.
+Clicking on the _Result_ tab (*7:*), all information about a problem solution can be viewed in a report at the _Plan Information_ panel (*6:*): Name Project, Domain, Problem, Planner and some statistics and so on.
 
 In the problem context, are involved some variables that can be selected to be tracked. 
-Click in the tab Variables Tracking (*8:*), will appear a panel with all problem variables (*9:*) and you can choose some of this  variables for each object  declared in the initial phases of the process:
+Click in the tab _Variables Tracking_ (*8:*), will appear a panel with all problem variables (*9:*) and you can choose some of this  variables for each object  declared in the initial phases of the process:
  
 https://my-project-probando.googlecode.com/svn/planning_var.png
 
-Beside that, you can analyze this variables through a diagram click in the option Draw Chart (*10:*) and will be visualized in the panel Chart (*11:*)
+Beside that, you can analyze this variables through a diagram click in the option _Draw Chart_ (*10:*) and will be visualized in the panel _Chart_ (*11:*)
