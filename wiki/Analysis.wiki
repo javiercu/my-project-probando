@@ -28,4 +28,12 @@ Click in the tab _Variables Tracking_ (*8:*), will appear a panel with all probl
  
 https://my-project-probando.googlecode.com/svn/planning_var.png
 
-Beside that, you can analyze this variables through a diagram click in the option _Draw Chart_ (*10:*) and will be visualized in the panel _Chart_ (*11:*)
+Beside you can analyze this variables through a diagram click in the option _Draw Chart_ (*10:*) and will be visualized in the panel _Chart_ (*11:*)
+
+You can generate a movie based on the Plan click on _Movie Maker_ tab (*11:*). Before it, if you want have a better visualization of the situations, you can click  in (*18:*) and adjust Left and Right Windows (*15:*). Both images (Left and Right windows) can be fit on the screen using _Zoom In_ and _Zoom Out_ options (*12:*).
+
+https://my-project-probando.googlecode.com/svn/planning_movie.png
+
+Left Window (*13:*)demonstrates the  _Preconditions_ of the Operator according to the Plan and Right Window (*14:*) demonstrates the Effects of the Operator according to the Plan. Look at the link green and the attribute _clear_ and _empty_ (with false value) of the _Hand_ and _Block_ class respectively (*16:*). In the left window this link doesn't exist and these attributes have Zero as true as value. This demonstrates which are effects of a given Operator in the problem.
+
+Either you can navigate by clicking on the _Forward_ option to analyze the changes or come back in the Plan Navigation clicking on the _Backward_ option (*17:*).
