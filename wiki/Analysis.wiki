@@ -23,11 +23,10 @@ Bar tool:
 
 https://my-project-probando.googlecode.com/svn/analyze_bartool.png
 
-Click run option (https://my-project-probando.googlecode.com/svn/step.png). The enabled transitions have green color and you can see in one step how are executing this transitions.
+Click run option (https://my-project-probando.googlecode.com/svn/step.png). The enabled transitions have green color and you can see in one step how are executed. Insofar as the transitions are executed, the result is visualize in the _Result_ panel (*6:*).
 
+Beside, you can visualize in only one diagram, all Petri nets corresponding for each State _Machine Diagram_: Select all _State Machine Diagrams_ in _State Chart Diagram_ panel (*3:*) and click over _Build_ Option (*4:*).
 
-, the transitions have green color.
-7. Look at the actions.
 8. Select all State Machine Diagrams.
 9. Now click Build option.
 10. You can look at the Petri Net Diagram. All state machine is appear in the Petri Net Diagram.
