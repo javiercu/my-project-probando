@@ -5,7 +5,7 @@
 
 The dynamic analysis can be done with the use of Petri Nets since UML diagrams do not provide all necessary features for such analysis,
 
-_itSIMPLE_ is able to generate Petri Nets (simulating them for dynamic verification) and PDDL representations of the domain and problems, which can be used as input for the planners. 
+_itSIMPLE_ is able to generate _Petri Nets_ (simulating them for dynamic verification) and PDDL representations of the domain and problems, which can be used as input for the planners. 
 
 Basically a classical _Petri net_ is a directed bipartite graph with two node types called places and transitions. The nodes are connected via directed arcs. Connections between two nodes of the same type are not allowed. Places are represented by circles and transitions by bars. Places may contain zero or more tokens, drawn as black dots. 
 
