@@ -1,4 +1,4 @@
-#summary A quick guide to getting started to planning process in itSimple tool.
+#summary A quick guide to getting started to planning process in itSIMPLE tool.
 #sidebar TableContents
 
 = Planning Process =
