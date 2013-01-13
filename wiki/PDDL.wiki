@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 
 
-= PDDL Traslation=
+= itSIMPLE PDDL Traslation=
 
 https://my-project-probando.googlecode.com/svn/web-developer.png
 
