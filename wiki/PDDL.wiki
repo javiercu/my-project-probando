@@ -1,4 +1,4 @@
-#summary A quick explanation to PDDL traslation process in itSimple tool
+#summary A quick explanation to PDDL traslation process in itSIMPLE tool
 #sidebar TableContents
 
 
