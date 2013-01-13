@@ -27,6 +27,11 @@ Click run option (https://my-project-probando.googlecode.com/svn/step.png). The 
 
 Beside, you can visualize in only one Petri net diagram corresponding for each State _Machine Diagram_: Select all _State Machine Diagrams_ in _State Chart Diagram_ panel (*3:*) and click over _Build_ Option (*4:*).
 
+In order to hold all information available in several representation languages (_UML_, _Petri Nets_ and _PDDL_) _itSIMPLE_ uses the well-known language _XML_ which is commonly used in data transactions systems, web applications and data sharing systems. The important point on using _XML_ is that some proposed integrated languages have direct representation in _XML_ such as _PNML_ - which stands for _Petri Nets Markup Language_.
+
+Actually, in order to create a _Petri Net_ representation, a model is first represented in _PNML_ form and then showed to the user as a Petri Net graph for simulation and analysis. _itSIMPLE_ can save all _Petri Nets_ diagram to _PNML_ format. (*7:*).
+
+
 8. Select all State Machine Diagrams.
 9. Now click Build option.
 10. You can look at the Petri Net Diagram. All state machine is appear in the Petri Net Diagram.
