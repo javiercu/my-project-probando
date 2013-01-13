@@ -23,7 +23,7 @@ Bar tool:
 
 https://my-project-probando.googlecode.com/svn/analyze_bartool.png
 
-Click run option (https://my-project-probando.googlecode.com/svn/steep.png).
+Click run option (https://my-project-probando.googlecode.com/svn/step.png). The enabled transitions have green color and you can see in one step how are executing this transitions.
 
 
 , the transitions have green color.
