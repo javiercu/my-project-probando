@@ -1,4 +1,4 @@
-#summary A quick guide to getting started to analysis in itSimple tool.
+#summary A quick guide to getting started to analysis in itSIMPLE tool.
 #sidebar TableContents
 
 = Analysis =
