@@ -13,7 +13,7 @@ For analyzing our State Machines using _Petri nets_ you must clicking on the Ana
 
 https://my-project-probando.googlecode.com/svn/analyze_screen.png
 
-Automatically will appear in _Projects manager_  panel all projects that are being processed in _itSIMPLE_ at the time (*2:*) and you can select a project for analyze.
+Automatically will appear in _Projects manager_  panel all projects that are being processed in _itSIMPLE_ at the time (*2:*) and you can select one project for analyze.
 
 For each project selected, will appear theirs _State Machine Diagram_ in _State Chart Diagram_ panel (*3:*) defined in [ModellingStateDiagram itSIMPLE modeling process]. 
 3. Click State Machine Diagram
