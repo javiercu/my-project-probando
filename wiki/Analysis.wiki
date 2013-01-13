@@ -3,6 +3,17 @@
 
 = Analysis =
 
+The dynamic analysis can be done with the use of Petri Nets since UML diagrams do not provide all necessary features for such analysis,
+
+_itSIMPLE_ is able to generate Petri Nets (simulating them for dynamic verification) and PDDL representations of the domain and problems, which can be used as input for the planners. 
+
+Basically a classical _Petri net_ is a directed bipartite graph with two node types called places and transitions. The nodes are connected via directed arcs. Connections between two nodes of the same type are not allowed. Places are represented by circles and transitions by bars. Places may contain zero or more tokens, drawn as black dots. 
+
+For analyzing our State Machines using _Petri nets_ you must clicking on the Analysis Tab in the _itSIMPLE_ main screen:
+
+https://my-project-probando.googlecode.com/svn/analyze_screen.png
+
+
 1. Let's analyze our State Machines using Petri Nets. Click Petri Net Tab
 2. Click over project.
 3. Click State Machine Diagram
@@ -14,5 +25,3 @@
 9. Now click Build option.
 10. You can look at the Petri Net Diagram. All state machine is appear in the Petri Net Diagram.
 11. You can launch all enabled transitions 
-
-https://my-project-probando.googlecode.com/svn/analyze_screen.png
