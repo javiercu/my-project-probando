@@ -15,11 +15,18 @@ https://my-project-probando.googlecode.com/svn/analyze_screen.png
 
 Automatically will appear in _Projects manager_  panel all projects that are being processed in _itSIMPLE_ at the time (*2:*) and you can select one project for analyze.
 
-For each project selected, will appear theirs _State Machine Diagram_ in _State Chart Diagram_ panel (*3:*) defined in [ModellingStateDiagram itSIMPLE modeling process]. 
-3. Click State Machine Diagram
-4. Click Build Option.
-5. Here it is the Analysis results based on the actions.
-6. Click run option, the transitions have green color.
+For each project selected, will appear theirs _State Machine Diagram_ in _State Chart Diagram_ panel (*3:*) defined in [ModellingStateDiagram itSIMPLE modeling process] and when you select one of them, you must click over _Build_ option (*4:*).
+
+In _Petri Net_ panel (*5:*) you can see the Analysis results based on the actions through Petri nets diagram.
+
+Bar tool:
+
+https://my-project-probando.googlecode.com/svn/analyze_bartool.png
+
+Click run option (https://my-project-probando.googlecode.com/svn/steep.png).
+
+
+, the transitions have green color.
 7. Look at the actions.
 8. Select all State Machine Diagrams.
 9. Now click Build option.
