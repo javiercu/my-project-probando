@@ -17,4 +17,4 @@ In the _Domain/Problem Selection_ (*2:*) panel  you can select a _Domain_ and fo
 
 Before you select _Translate_ option (*4:*), you can specify a _PDDL_ Version in the panel _PDDL Version_ (*3:*) (between 2.1, 2.2, 3.0 and 3.1 version).
 
-The _PDDL_ can be save with the _Save PDDL_ option.
+The _PDDL_ can be save with the _Save PDDL_ option (*5:*).
